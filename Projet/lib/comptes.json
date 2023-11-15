@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "type": "étudiant",
+      "nom": "RAOULT",
+      "mdp": "azerty",
+      "tel": "0657483943",
+      "adresse": "juliette.raoult@utt.fr"
+    },
+    {
+      "type": "enseignant",
+      "nom": "DI LORETO",
+      "mdp": "azerty",
+      "tel": "0785743793",
+      "adresse": "ines.diloreto@utt.fr"
+    },
+    {
+      "type": "étudiant",
+      "nom": "MAZEAU",
+      "mdp": "azerty",
+      "tel": "07867564",
+      "adresse": "antoine.mazeau@utt.fr"
+    },
+    {
+      "type": "étudiant",
+      "nom": null,
+      "mdp": null,
+      "tel": null,
+      "adresse": null
+    }
+  ]
+}
