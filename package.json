@@ -1,5 +1,4 @@
 {
-  "type": "module",
   "dependencies": {
     "gift-pegjs": "^0.2.1"
   }
