@@ -1,7 +1,9 @@
 var Radio = {
     check: function(){
     console.log("Radio ready !")
-    return true
+    console.log("Blue level checked".blue)
+
+        return true
     }
     }
 module.exports = Radio 
