@@ -1,0 +1,276 @@
+[
+  {
+    "type": "Category",
+    "title": "$course$/top/Gold B2, Unit 11"
+  },
+  {
+    "id": null,
+    "tags": null,
+    "type": "Description",
+    "title": "U11 p114 Mixed conditionals 4.0",
+    "stem": {
+      "format": "moodle",
+      "text": "Complete the sentences using the correct form of the verbs in brackets. (If there is more than one possibly, say why.)"
+    },
+    "hasEmbeddedAnswers": false
+  },
+  {
+    "type": "Short",
+    "title": "U11 p114 Mixed conditionals 4.1",
+    "stem": {
+      "format": "html",
+      "text": "If I'd left the party earlier, I  _____ (<i>not/feel</i>) so tired today."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "wouldn't feel"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "wouldn't be feeling"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "wouldn't have felt"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "wouldn’t feel"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "wouldn’t be feeling"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "wouldn’t have felt"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "would not feel"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "would not be feeling"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "would not have felt"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": "U11 p114 Mixed conditionals 4.2",
+    "stem": {
+      "format": "html",
+      "text": "I would have got that job if I  _____ (<i>speak</i>) fluent French."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "'d spoken"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "'d spoke"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "’d spoken"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "’d spoke"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "spoke"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "could speak"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": "U11 p114 Mixed conditionals 4.3",
+    "stem": {
+      "format": "html",
+      "text": "If you'd let me drive, we  _____ (<i>not/be</i>) lost now."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "wouldn't be"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "wouldn’t be"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": "U11 p114 Mixed conditionals 4.4",
+    "stem": {
+      "format": "html",
+      "text": "I'd be much happier if I  _____ (<i>speak</i>) to Tom yesterday."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "had spoken"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "could have spoken"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": "U11 p114 Mixed conditionals 4.5",
+    "stem": {
+      "format": "html",
+      "text": "I  _____ (<i>might/earn</i>) more now if I'd gone to university."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "might earn"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "might be earning"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  }
+]
