@@ -5,7 +5,7 @@ var Radio = {
 	console.log("Magenta level checked".magenta)
 	console.log("Gray level checked".gray)
         return true
-    }
+}
     }
 module.exports = Radio 
 
