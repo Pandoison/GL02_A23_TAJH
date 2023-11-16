@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "gift-parser-ide": "^0.2.4",
     "gift-pegjs": "^0.2.1"
   }
 }
