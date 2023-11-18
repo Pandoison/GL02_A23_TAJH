@@ -22,11 +22,11 @@
       "adresse": "antoine.mazeau@utt.fr"
     },
     {
-      "type": "étudiant",
-      "nom": null,
-      "mdp": null,
-      "tel": null,
-      "adresse": null
+      "type": "gestionnaire",
+      "nom": "Roger",
+      "mdp": "LesCarottesSontCuites!",
+      "tel": "0654788212",
+      "adresse": "Rogerpetit@gmail.com"
     }
   ]
 }
