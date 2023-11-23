@@ -1,0 +1,126 @@
+[
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U5 p54 6.1 Passive[html]People expect tourists to carry sticks to protect themselves from curious monkeys.<br /> <b>ARE</b> <br /> Tourists _____ sticks to protect themselves from curious monkeys."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "are expected to carry"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "are expected to carry"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U5 p54 6.2 Passive[html]Most people think monkeys are a huge tourist attraction. <b>BE</b> <br /> Monkeys _____ a huge tourist attraction by most people."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "are thought to be"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U5 p54 6.3 Passive[html]Newspapers claim that twenty top chefs have been invited to prepare the meal. <b>BY</b> <br /> It _____ newspapers that twenty top chefs have been invited<br /> to prepare the meal."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "is claimed by"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U5 p54 6.4 Passive[html]The tourist office has estimated that over 10,000 visitors watch the feast. <b>BEEN</b> <br /> It _____ that over 10,000 visitors watch the feast."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "has been estimated"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U5 p54 6.5 Passive[html]Everyone says monkeys can be very aggressive around food. <b>TO</b> <br /> Monkeys _____ be very aggressive around food."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "are said to"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  }
+]

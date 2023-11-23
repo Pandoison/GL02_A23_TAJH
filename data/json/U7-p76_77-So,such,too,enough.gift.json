@@ -1,0 +1,496 @@
+[
+  {
+    "id": null,
+    "tags": null,
+    "type": "Description",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "$CATEGORY $course$/top/Gold B2, Unit 7"
+    },
+    "hasEmbeddedAnswers": false
+  },
+  {
+    "id": null,
+    "tags": null,
+    "type": "Description",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U7 p77 [So,such,too,enough,very] 1.0[markdown]Complete the sentences with _enough_, _so_, _such_, _too_ or _very_."
+    },
+    "hasEmbeddedAnswers": false
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U7 p77 [So,such,too,enough,very] 1.1He was _____ surprised that he went to check."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "enough"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "so"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "such"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "too"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "very"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U7 p77 [So,such,too,enough,very] 1.2My brother isn't practical _____ to put up a shelf."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "enough"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "so"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "such"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "too"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "very"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U7 p77 [So,such,too,enough,very] 1.3Isn't your car _____ old to drive all that way?"
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "enough"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "so"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "such"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "too"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "very"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U7 p77 [So,such,too,enough,very] 1.4There aren't _____ many people who could do that."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "enough"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "so"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "such"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "too"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "very"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U7 p77 [So,such,too,enough,very] 1.5We had _____ a good time that we decided to stay for longer."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "enough"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "so"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "such"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "too"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "very"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U7 p77 [So,such,too,enough,very] 1.6Is that fruit ripe _____ to eat yet?"
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "enough"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "so"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "such"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "too"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "very"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U7 p77 [So,such,too,enough,very] 1.7He did _____ well in his exams that nobody believed him at first."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "enough"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "so"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "such"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "too"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "very"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U7 p77 [So,such,too,enough,very] 1.8It's a _____ interesting book."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "enough"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "so"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "such"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "too"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "very"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  }
+]

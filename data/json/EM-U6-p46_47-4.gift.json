@@ -1,0 +1,160 @@
+[
+  {
+    "id": null,
+    "tags": null,
+    "type": "Description",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "EM U6 p46-47 4.0 UoE Key word transformation[html]Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given.You must use between two and five words, including the word given.<br> <blockquote> A very kind friend took us home after the party. (<b>TAKEN</b>)<br> Aften the party, we <i><u>were taken home by</u></i> a very kind friend. </blockquote>"
+    },
+    "hasEmbeddedAnswers": false
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "EM U6 p46-47 4.1[html]I couldn't wait to see my friend again after her long trip abroad. (<b>LOOKING</b>)<br> I _____ my friend again after her long trip abroad."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "was looking forward to seeing"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "EM U6 p46-47 4.2[html]The last time Joe saw Carlos was the day they both graduated from university. (<b>SEEN</b>)<br> Carlos _____ the day they both graduated from university."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "has not seen Joe since"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "EM U6 p46-47 4.3[html]‘You must do your homework, Tom’, said Carol. (<b>REMINDED</b>)<br> Carol _____ his homework."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "reminded Tom to do"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "EM U6 p46-47 4.4[html]I never seem to find the time to read newspapers these days. (<b>ROUND</b>)<br> I never seem to _____ newspapers these days."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "get round to reading"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "EM U6 p46-47 4.5[html]Nothing irritates me as much as getting piles of junk mail through the post. (<b>MORE</b>)<br> There is nothing _____ getting piles of junk mail through the post."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "more irritating than"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "EM U6 p46-47 4.6[html]The idea of flying is very frightening for some people. (<b>ARE</b>)<br> Some people _____ the idea of flying."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "are very frightened by"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "are very frightened of"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  }
+]

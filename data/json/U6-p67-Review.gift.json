@@ -1,0 +1,1076 @@
+[
+  {
+    "id": null,
+    "tags": null,
+    "type": "Description",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p67 Rev1.0Complete the sentences using the correct form of the word in brackets."
+    },
+    "hasEmbeddedAnswers": false
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p67 Rev1.1[html]Some people think that new technology will lead to the _____ (<i>destroy</i>) of the film industry."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "destruction"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p67 Rev1.2[html]An _____ (<i>excess</i>) amount of practice can lead to more injuries for dancers."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "excessive"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p67 Rev1.3[html]There is no _____ (<i>evident</i>) as yet that robots will be a serious threat to jobs."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "evidence"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p67 Rev1.4[html]The film is a _____ (<i>fiction</i>) account of a great painter's life."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "fictional"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p67 Rev1.5[html]I sometimes like to escape from _____ (<i>real</i>) by going to a musical."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "reality"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p67 Rev1.6[html]We wanted to see a film, but there wasn't much _____ (<i>choose</i>)."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "choice"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "id": null,
+    "tags": null,
+    "type": "Description",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p67 Rev2.0 Complete the sentences with the words in the box."
+    },
+    "hasEmbeddedAnswers": false
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p67 Rev2.1The only way I can get _____ to my cousin is by talking about dance."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "away"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "down"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "into"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "over"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "round"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "through"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p67 Rev2.2<i>City Lights</i> is on TV tonight. I never got _____ to seeing that at the cinema."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "away"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "down"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "into"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "over"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "round"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "through"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p67 Rev2.3It took him ages to get _____ the disappointment of not being in the play."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "away"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "down"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "into"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "over"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "round"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "through"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p67 Rev2.4If I stay in every night watching TV, it gets me _____ ."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "away"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "down"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "into"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "over"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "round"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "through"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p67 Rev2.5Comedians can't get _____ with simply repeating the same jokes at every performance."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "away"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "down"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "into"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "over"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "round"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "through"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p67 Rev2.6Everyone says it's a really good series, but I just can't get _____ it."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "away"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "down"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "into"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "over"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "round"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "through"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "id": null,
+    "tags": null,
+    "type": "Description",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p67 Rev3.0Complete the sentences with the future continuous or future perfect form of the verbs in brackets."
+    },
+    "hasEmbeddedAnswers": false
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p67 Rev3.1[html]I think I'll still _____ (<i>learn</i>) my lines until just before the play starts."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "be learning"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p67 Rev3.2[html]The film may already _____ (<i>start</i>) by the time we get there."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "have started|have started"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p67 Rev3.3[html]I hope they'll _____ (<i>show</i>) his still lifes at the exhibition."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "show"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "be showing"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p67 Rev3.4[html]We might _____ (<i>use</i>) the same costumes in our next production."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "use|be using"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p67 Rev3.5[html]People will probably still _____ (<i>watch</i>) live theatre in fifty years' time."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "watch"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "be watching"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p67 Rev3.6[html]I think people will _____ (<i>lose</i>) interest in computer games a long time before 2025."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "have lost"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "id": null,
+    "tags": null,
+    "type": "Description",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p67 Rev4.0Choose the correct option."
+    },
+    "hasEmbeddedAnswers": false
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p67 Rev4.1Sorry, I can't come on Saturday. I _____ an old school friend for lunch."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "meet"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "am meeting"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "will meet"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p67 Rev4.2As soon as she _____ , will you text me?"
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "phones"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "will phone"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "will be phoning"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p67 Rev4.3I _____ my drama course by the end of next year."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "will be completing"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "will have completed"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "am completing"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p67 Rev4.4This time tomorrow, I _____ in front of hundreds of people."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "will dance"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "will be dancing"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "dance"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p67 Rev4.5Don't worry, I haven't forgotten. I _____ to him later."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "speak"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "will have spoken"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "am going to speak"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p67 Rev4.6I'll meet you after I _____ work."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "finish"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "am finishing"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "will finish"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p67 Rev4.7Don't be nervous. I'm sure you _____ really well tomorrow."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "do"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "are doing"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "will do"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p67 Rev4.8Let's hurry! They _____ the theatre doors at 7.30 and then you have to wait until the interval to go in."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "close"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "are going to close"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "are closing"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  }
+]

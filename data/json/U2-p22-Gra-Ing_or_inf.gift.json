@@ -1,0 +1,382 @@
+[
+  {
+    "id": null,
+    "tags": null,
+    "type": "Description",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "$CATEGORY $course$/top/Gold B2, Unit 2/Grammar/Verb patterns"
+    },
+    "hasEmbeddedAnswers": false
+  },
+  {
+    "type": "Matching",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U2 p22 3 – Verb patterns -ing or infMatch the clauses to make sentences."
+    },
+    "hasEmbeddedAnswers": false,
+    "globalFeedback": null,
+    "matchPairs": [
+      {
+        "subquestion": {
+          "format": "moodle",
+          "text": "It took me ages to have the confidence"
+        },
+        "subanswer": "to be on my own with him."
+      },
+      {
+        "subquestion": {
+          "format": "moodle",
+          "text": "It's not worth"
+        },
+        "subanswer": "talking to him really because he just disagrees with whatever anybody says."
+      },
+      {
+        "subquestion": {
+          "format": "moodle",
+          "text": "We both love"
+        },
+        "subanswer": "riding, so it's great to have something in common."
+      },
+      {
+        "subquestion": {
+          "format": "moodle",
+          "text": "We'd like him"
+        },
+        "subanswer": "to come and live nearer."
+      },
+      {
+        "subquestion": {
+          "format": "moodle",
+          "text": "I've promised"
+        },
+        "subanswer": "to give him tennis lessons."
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U2 p22 6.1a – Verb patterns -ing or infMy mother stopped _____ lunch because the phone rang."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "making"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "to make"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U2 p22 6.1b – Verb patterns -ing or infMy mother stopped _____ lunch because we were hungry."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "making"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "to make"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U2 p22 6.2a – Verb patterns -ing or infDad tried _____ but nobody answered."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "phoning"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "to phone"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U2 p22 6.2b – Verb patterns -ing or infDad tried _____ but he couldn't remember the number, so he gave up."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "phoning"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "to phone"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U2 p22 6.3a – Verb patterns -ing or infThe kids remembered _____ grandma a present for her birthday."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "buying"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "to buy"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U2 p22 6.3b – Verb patterns -ing or infThe kids remembered _____ grandma a present but couldn't find it again later."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "buying"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "to buy"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U2 p22 6.4a – Verb patterns -ing or infI regret _____ you that all train services have been cancelled."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "telling"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "to tell"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U2 p22 6.4b – Verb patterns -ing or infI regret _____ you because now you're upset."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "telling"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "to tell"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U2 p22 6.5a – Verb patterns -ing or infI forgot _____ my sister an old dress, and then I found it in her wardrobe."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "to give"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "giving"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U2 p22 6.5b – Verb patterns -ing or infI forgot _____ my teacher my essay and she wasn't happy when I handed it in late."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "to give"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "giving"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  }
+]

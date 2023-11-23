@@ -1,0 +1,140 @@
+[
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p59 Voc10.1 the arts[html]<small><p><i>Complete the sentence with one of the following words <b>abstract • blockbusters • cast • contemporary • gallery • productions</b>.</i></p></small> <p>I'm not convinced I like all classical ballet but I love _____ dance.</p>"
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "contemporary"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p59 Voc10.2 the arts[html]<small><p><i>Complete the sentence with one of the following words <b>abstract • blockbusters • cast • contemporary • gallery • productions</b>.</i></p></small> <p>I sometimes nip into an art _____ or exhibition during my lunch break.</p>"
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "gallery"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p59 Voc10.3 the arts[html]<small><p><i>Complete the sentence with one of the following words <b>abstract • blockbusters • cast • contemporary • gallery • productions</b>.</i></p></small> <p>I prefer landscapes or portraits to more _____ paintings.</p>"
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "abstract"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p59 Voc10.4 the arts[html]<small><p><i>Complete the sentence with one of the following words <b>abstract • blockbusters • cast • contemporary • gallery • productions</b>.</i></p></small> <p>I'll often go to a play more than once if there's a different _____ performing.</p>"
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "cast"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p59 Voc10.5 the arts[html]<small><p><i>Complete the sentence with one of the following words <b>abstract • blockbusters • cast • contemporary • gallery • productions</b>.</i></p></small> <p>I tend to go for original theatre _____ by controversial directors.</p>"
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "productions"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U6 p59 Voc10.6 the arts[html]<small><p><i>Complete the sentence with one of the following words <b>abstract • blockbusters • cast • contemporary • gallery • productions</b>.</i></p></small> <p>I'm a keen film-goer but I usually avoid _____ ."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "blockbusters"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  }
+]

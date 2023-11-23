@@ -1,0 +1,173 @@
+[
+  {
+    "id": null,
+    "tags": null,
+    "type": "Description",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "EM U5 p35 Gra3.0 Subject/verb agreementChoose the correct options to complete the sentences."
+    },
+    "hasEmbeddedAnswers": false
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "EM U5 p35 Gra3.1Eating too much sugar _____ bad for young children."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "is"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "are"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "EM U5 p35 Gra3.2Most of my friends _____ fast food regularly."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "eats"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "eat"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "EM U5 p35 Gra3.3Not many people _____ raw vegetables."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "enjoy"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "enjoys"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "EM U5 p35 Gra3.4There _____ few people in the restaurant."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "was"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "were"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "EM U5 p35 Gra3.5It's good that there _____ lots of advice about healthy lifestyles."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "is"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "are"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  }
+]

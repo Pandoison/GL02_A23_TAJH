@@ -1,0 +1,233 @@
+[
+  {
+    "id": null,
+    "tags": null,
+    "type": "Description",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U1 p10 GR2.0 Present tenses & habitsComplete the sentences with the correct present form of the verb in brackets."
+    },
+    "hasEmbeddedAnswers": false
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U1 p10 GR2.1 Present tenses & habitsI usually _____ to the gym on Sundays. (<i>go</i>)"
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "go"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U1 p10 GR2.2 Present tenses & habitsThe children _____ very quickly. (<i>grow up</i>)"
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "are growing up"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U1 p10 GR2.3 Present tenses & habitsI think she _____ a bit unfair – he didn't mean to upset her. (<i>be</i>)"
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "is being"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "'s being"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U1 p10 GR2.4 Present tenses & habitsShe _____ any better at maths even though she has a private tutor. (<i>not get</i>)"
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "isn't getting"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "is not getting"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U1 p10 GR2.5 Present tenses & habitsSally _____ to be enjoying the course. (<i>appear</i>)"
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "appears"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U1 p10 GR2.6 Present tenses & habitsEven when I have a bad headache I _____ painkillers. (<i>not take</i>)"
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "don't take"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "do not take"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U1 p10 GR2.7 Present tenses & habitsColin _____ used to walking to school – he's always done it. (<i>be</i>)"
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "is"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U1 p10 GR2.8 Present tenses & habitsIt seemed very cold at first but now we _____ used to the weather. (<i>get</i>)"
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "are getting"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "'re getting"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  }
+]

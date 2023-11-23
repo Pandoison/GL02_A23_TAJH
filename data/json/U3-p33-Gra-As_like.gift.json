@@ -1,0 +1,286 @@
+[
+  {
+    "id": null,
+    "tags": null,
+    "type": "Description",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "$CATEGORY $course$/top/Gold B2, Unit 3"
+    },
+    "hasEmbeddedAnswers": false
+  },
+  {
+    "id": null,
+    "tags": null,
+    "type": "Description",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U3 p33 Gra as/like 6.0[markdown]Complete the sentences with _as_ or _like_."
+    },
+    "hasEmbeddedAnswers": false
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U3 p33 Gra as/like 6.1Was that film _____ all his other ones?"
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "as"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "like"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U3 p33 Gra as/like 6.2Shall we still have lunch together, _____ we said yesterday?"
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "as"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "like"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U3 p33 Gra as/like 6.3I've always regarded you _____ a friend."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "as"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "like"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U3 p33 Gra as/like 6.4A job _____ that one takes a long time to finish."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "as"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "like"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U3 p33 Gra as/like 6.5He's working _____ a waiter in the holidays."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "as"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "like"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U3 p33 Gra as/like 6.6Please do it carefully _____ I asked you."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "as"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "like"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Matching",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "U3 p33 Gra as/like GR3Match the following clauses to make sentences."
+    },
+    "hasEmbeddedAnswers": false,
+    "globalFeedback": null,
+    "matchPairs": [
+      {
+        "subquestion": {
+          "format": "moodle",
+          "text": "I have long dark hair,"
+        },
+        "subanswer": "like my sister."
+      },
+      {
+        "subquestion": {
+          "format": "moodle",
+          "text": "He's always losing things,"
+        },
+        "subanswer": "like his phone and his keys."
+      },
+      {
+        "subquestion": {
+          "format": "moodle",
+          "text": "I suggested going shopping,"
+        },
+        "subanswer": "but she didn't feel like it."
+      },
+      {
+        "subquestion": {
+          "format": "moodle",
+          "text": "She says she doesn't feel like"
+        },
+        "subanswer": "doing anything tonight."
+      },
+      {
+        "subquestion": {
+          "format": "moodle",
+          "text": "Buying a new printer looks"
+        },
+        "subanswer": "like the best solution to the problem."
+      },
+      {
+        "subquestion": {
+          "format": "moodle",
+          "text": "I've always thought of you"
+        },
+        "subanswer": "as someone I could depend on."
+      },
+      {
+        "subquestion": {
+          "format": "moodle",
+          "text": "It's probably best to do"
+        },
+        "subanswer": "as your father suggests."
+      },
+      {
+        "subquestion": {
+          "format": "moodle",
+          "text": "Conor acts"
+        },
+        "subanswer": "as if he was in charge of us all."
+      }
+    ],
+    "id": null,
+    "tags": null
+  }
+]
