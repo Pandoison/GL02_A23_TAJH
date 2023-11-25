@@ -1,9 +1,7 @@
-
-
-var question = function(description, libelle, type, resp ){
-    this.libelle = libelle;
+let question = function(indication, consigne, type, resp ){
+    this.consigne = consigne;
     this.type = type;
-    this.consigne = description;
+    this.indication = indication;
     this.reponses = resp;
 }
 
