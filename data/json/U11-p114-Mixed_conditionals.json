@@ -14,19 +14,19 @@
     "id": null,
     "tags": null,
     "type": "Description",
-    "title": null,
+    "title": "U11 p114 Mixed conditionals 4.0",
     "stem": {
       "format": "moodle",
-      "text": "U11 p114 Mixed conditionals 4.0 Complete the sentences using the correct form of the verbs in brackets. (If there is more than one possibly, say why.)"
+      "text": "Complete the sentences using the correct form of the verbs in brackets. (If there is more than one possibly, say why.)"
     },
     "hasEmbeddedAnswers": false
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U11 p114 Mixed conditionals 4.1",
     "stem": {
-      "format": "moodle",
-      "text": "U11 p114 Mixed conditionals 4.1 [html]If I'd left the party earlier, I _____ (<i>not/feel</i>) so tired today."
+      "format": "html",
+      "text": "If I'd left the party earlier, I  _____ (<i>not/feel</i>) so tired today."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -35,7 +35,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "wouldn't feel"
         },
         "feedback": null
@@ -44,7 +44,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "wouldn't be feeling"
         },
         "feedback": null
@@ -53,7 +53,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "wouldn't have felt"
         },
         "feedback": null
@@ -62,7 +62,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "wouldn’t feel"
         },
         "feedback": null
@@ -71,7 +71,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "wouldn’t be feeling"
         },
         "feedback": null
@@ -80,7 +80,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "wouldn’t have felt"
         },
         "feedback": null
@@ -89,7 +89,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "would not feel"
         },
         "feedback": null
@@ -98,7 +98,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "would not be feeling"
         },
         "feedback": null
@@ -107,7 +107,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "would not have felt"
         },
         "feedback": null
@@ -118,10 +118,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U11 p114 Mixed conditionals 4.2",
     "stem": {
-      "format": "moodle",
-      "text": "U11 p114 Mixed conditionals 4.2 [html]I would have got that job if I _____ (<i>speak</i>) fluent French."
+      "format": "html",
+      "text": "I would have got that job if I  _____ (<i>speak</i>) fluent French."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -130,7 +130,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "'d spoken"
         },
         "feedback": null
@@ -139,7 +139,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "'d spoke"
         },
         "feedback": null
@@ -148,7 +148,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "’d spoken"
         },
         "feedback": null
@@ -157,7 +157,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "’d spoke"
         },
         "feedback": null
@@ -166,7 +166,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "spoke"
         },
         "feedback": null
@@ -175,7 +175,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "could speak"
         },
         "feedback": null
@@ -186,10 +186,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U11 p114 Mixed conditionals 4.3",
     "stem": {
-      "format": "moodle",
-      "text": "U11 p114 Mixed conditionals 4.3 [html]If you'd let me drive, we _____ (<i>not/be</i>) lost now."
+      "format": "html",
+      "text": "If you'd let me drive, we  _____ (<i>not/be</i>) lost now."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -198,7 +198,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "wouldn't be"
         },
         "feedback": null
@@ -207,7 +207,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "wouldn’t be"
         },
         "feedback": null
@@ -218,10 +218,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U11 p114 Mixed conditionals 4.4",
     "stem": {
-      "format": "moodle",
-      "text": "U11 p114 Mixed conditionals 4.4 [html]I'd be much happier if I _____ (<i>speak</i>) to Tom yesterday."
+      "format": "html",
+      "text": "I'd be much happier if I  _____ (<i>speak</i>) to Tom yesterday."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -230,7 +230,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "had spoken"
         },
         "feedback": null
@@ -239,7 +239,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "could have spoken"
         },
         "feedback": null
@@ -250,10 +250,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U11 p114 Mixed conditionals 4.5",
     "stem": {
-      "format": "moodle",
-      "text": "U11 p114 Mixed conditionals 4.5 [html]I _____ (<i>might/earn</i>) more now if I'd gone to university."
+      "format": "html",
+      "text": "I  _____ (<i>might/earn</i>) more now if I'd gone to university."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -262,7 +262,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "might earn"
         },
         "feedback": null
@@ -271,7 +271,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "might be earning"
         },
         "feedback": null

@@ -1,66 +1,66 @@
 [
   {
     "type": "Matching",
-    "title": null,
+    "title": "U3 p32 GR2 Present perfect vs past simple",
     "stem": {
-      "format": "moodle",
-      "text": "U3 p32 GR2 Present perfect vs past simple [markdown]Match the phrases in bold in the following sentences to the respective tense and use."
+      "format": "markdown",
+      "text": "Match the phrases in bold in the following sentences to the respective tense and use."
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
     "matchPairs": [
       {
         "subquestion": {
-          "format": "moodle",
+          "format": "markdown",
           "text": "You can see she**'s been swimming** – her hair's still wet."
         },
         "subanswer": "Present perfect continuous - for a recent completed activity when the effects are still relevant"
       },
       {
         "subquestion": {
-          "format": "moodle",
+          "format": "markdown",
           "text": "I **knew** almost everyone at the party."
         },
         "subanswer": "Past simple - for a state in the past"
       },
       {
         "subquestion": {
-          "format": "moodle",
+          "format": "markdown",
           "text": "Carol**'s been working** here for the last few weeks while Chloe's away having a baby."
         },
         "subanswer": "Present perfect continuous - to suggest that an activity is temporary"
       },
       {
         "subquestion": {
-          "format": "moodle",
+          "format": "markdown",
           "text": "I**'ve only worn** that shirt three times since I bought it."
         },
         "subanswer": "Present perfect - for an action repeated up to the present time"
       },
       {
         "subquestion": {
-          "format": "moodle",
+          "format": "markdown",
           "text": "I**'ve been having** driving lessons for months but I'm not getting any better."
         },
         "subanswer": "Present perfect continuous - to emphasise that an action has been going on for a long time"
       },
       {
         "subquestion": {
-          "format": "moodle",
+          "format": "markdown",
           "text": "All my friends at school **played** football, not rugby."
         },
         "subanswer": "Past simple - for a habit in the past"
       },
       {
         "subquestion": {
-          "format": "moodle",
+          "format": "markdown",
           "text": "Harry's birthday party **didn't end** until three in the morning."
         },
         "subanswer": "Past simple - for a finished event that happened at a specific time in the past"
       },
       {
         "subquestion": {
-          "format": "moodle",
+          "format": "markdown",
           "text": "They**'ve been building** that house for ages and it's still only half-finished."
         },
         "subanswer": "Present perfect continuous - to suggest that an activity is not complete"
@@ -71,10 +71,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U3 p32 CD.01 Present perfect vs past simple",
     "stem": {
       "format": "moodle",
-      "text": "U3 p32 CD.01 Present perfect vs past simple I _____ interested in theatre since I was very young."
+      "text": "I _____ interested in theatre since I was very young."
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -103,10 +103,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U3 p32 CD.02 Present perfect vs past simple",
     "stem": {
       "format": "moodle",
-      "text": "U3 p32 CD.02 Present perfect vs past simple Toby _____ very good at football when we were at school together."
+      "text": "Toby _____ very good at football when we were at school together."
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -135,10 +135,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U3 p32 CD.03 Present perfect vs past simple",
     "stem": {
       "format": "moodle",
-      "text": "U3 p32 CD.03 Present perfect vs past simple They _____ that café for as long as I can remember."
+      "text": "They _____ that café for as long as I can remember."
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -167,10 +167,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U3 p32 CD.04 Present perfect vs past simple",
     "stem": {
       "format": "moodle",
-      "text": "U3 p32 CD.04 Present perfect vs past simple We _____ chickens and ducks when we lived on a farm."
+      "text": "We _____ chickens and ducks when we lived on a farm."
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -199,10 +199,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U3 p32 CD.05 Present perfect vs past simple",
     "stem": {
       "format": "moodle",
-      "text": "U3 p32 CD.05 Present perfect vs past simple Ella _____ learning to play the guitar this week."
+      "text": "Ella _____ learning to play the guitar this week."
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -231,10 +231,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U3 p32 CD.06 Present perfect vs past simple",
     "stem": {
       "format": "moodle",
-      "text": "U3 p32 CD.06 Present perfect vs past simple You _____ to turn pale – I was really worried about you!"
+      "text": "You _____ to turn pale – I was really worried about you!"
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -263,10 +263,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U3 p32 CD.07 Present perfect vs past simple",
     "stem": {
       "format": "moodle",
-      "text": "U3 p32 CD.07 Present perfect vs past simple My parents _____ a bit of bad luck this year."
+      "text": "My parents _____ a bit of bad luck this year."
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -295,10 +295,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U3 p32 CD.08 Present perfect vs past simple",
     "stem": {
       "format": "moodle",
-      "text": "U3 p32 CD.08 Present perfect vs past simple Steve _____ a good time last night, didn't he?"
+      "text": "Steve _____ a good time last night, didn't he?"
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -327,10 +327,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U3 p32 CD.09 Present perfect vs past simple",
     "stem": {
       "format": "moodle",
-      "text": "U3 p32 CD.09 Present perfect vs past simple Those trousers _____ of fashion in the 1970s."
+      "text": "Those trousers _____ of fashion in the 1970s."
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -359,10 +359,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U3 p32 CD.10 Present perfect vs past simple",
     "stem": {
       "format": "moodle",
-      "text": "U3 p32 CD.10 Present perfect vs past simple My Auntie's café _____ of business – she's so sad about it."
+      "text": "My Auntie's café _____ of business – she's so sad about it."
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -391,10 +391,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U3 p32 CD.11 Present perfect vs past simple",
     "stem": {
       "format": "moodle",
-      "text": "U3 p32 CD.11 Present perfect vs past simple I _____ leave early because I wanted to study the next morning."
+      "text": "I _____ leave early because I wanted to study the next morning."
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -423,10 +423,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U3 p32 CD.12 Present perfect vs past simple",
     "stem": {
       "format": "moodle",
-      "text": "U3 p32 CD.12 Present perfect vs past simple Sarah _____ take another job to pay for her holiday this summer."
+      "text": "Sarah _____ take another job to pay for her holiday this summer."
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -455,10 +455,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U3 p32 CD.13 Present perfect vs past simple",
     "stem": {
       "format": "moodle",
-      "text": "U3 p32 CD.13 Present perfect vs past simple We _____ going to my grandparents house when we were little."
+      "text": "We _____ going to my grandparents house when we were little."
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -487,10 +487,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U3 p32 CD.14 Present perfect vs past simple",
     "stem": {
       "format": "moodle",
-      "text": "U3 p32 CD.14 Present perfect vs past simple My brothers _____ playing rugby together, even though they're middle-aged now."
+      "text": "My brothers _____ playing rugby together, even though they're middle-aged now."
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -519,10 +519,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U3 p32 CD.15 Present perfect vs past simple",
     "stem": {
       "format": "moodle",
-      "text": "U3 p32 CD.15 Present perfect vs past simple My Dad _____ medicine at university."
+      "text": "My Dad _____ medicine at university."
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -551,10 +551,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U3 p32 CD.16 Present perfect vs past simple",
     "stem": {
       "format": "moodle",
-      "text": "U3 p32 CD.16 Present perfect vs past simple We _____ really hard for this test, I hope it goes well."
+      "text": "We _____ really hard for this test, I hope it goes well."
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -583,10 +583,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U3 p32 CD.17 Present perfect vs past simple",
     "stem": {
       "format": "moodle",
-      "text": "U3 p32 CD.17 Present perfect vs past simple My cousins _____ to school in Hong Kong."
+      "text": "My cousins _____ to school in Hong Kong."
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -615,10 +615,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U3 p32 CD.18 Present perfect vs past simple",
     "stem": {
       "format": "moodle",
-      "text": "U3 p32 CD.18 Present perfect vs past simple I _____ to Disneyland three times."
+      "text": "I _____ to Disneyland three times."
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -647,10 +647,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U3 p32 CD.19 Present perfect vs past simple",
     "stem": {
       "format": "moodle",
-      "text": "U3 p32 CD.19 Present perfect vs past simple Anna _____ all of his novels."
+      "text": "Anna _____ all of his novels."
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -679,10 +679,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U3 p32 CD.20 Present perfect vs past simple",
     "stem": {
       "format": "moodle",
-      "text": "U3 p32 CD.20 Present perfect vs past simple My Mum _____ to us every night when we were growing up."
+      "text": "My Mum _____ to us every night when we were growing up."
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -711,10 +711,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U3 p32 CD.21 Present perfect vs past simple",
     "stem": {
       "format": "moodle",
-      "text": "U3 p32 CD.21 Present perfect vs past simple He _____ his keys here after the party."
+      "text": "He _____ his keys here after the party."
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -743,10 +743,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U3 p32 CD.22 Present perfect vs past simple",
     "stem": {
       "format": "moodle",
-      "text": "U3 p32 CD.22 Present perfect vs past simple They _____ our tickets at the box office, we can collect them when we get there."
+      "text": "They _____ our tickets at the box office, we can collect them when we get there."
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -775,10 +775,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U3 p32 CD.23 Present perfect vs past simple",
     "stem": {
       "format": "moodle",
-      "text": "U3 p32 CD.23 Present perfect vs past simple You _____ lots of photos, didn't you?"
+      "text": "You _____ lots of photos, didn't you?"
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -807,10 +807,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U3 p32 CD.24 Present perfect vs past simple",
     "stem": {
       "format": "moodle",
-      "text": "U3 p32 CD.24 Present perfect vs past simple Barney _____ a shower already, he's nearly ready to go."
+      "text": "Barney _____ a shower already, he's nearly ready to go."
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -839,10 +839,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U3 p32 CD.25 Present perfect vs past simple",
     "stem": {
       "format": "moodle",
-      "text": "U3 p32 CD.25 Present perfect vs past simple Serena _____ most of the drinks last night."
+      "text": "Serena _____ most of the drinks last night."
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -871,10 +871,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U3 p32 CD.26 Present perfect vs past simple",
     "stem": {
       "format": "moodle",
-      "text": "U3 p32 CD.26 Present perfect vs past simple We _____ loads of food for the party this weekend."
+      "text": "We _____ loads of food for the party this weekend."
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -903,10 +903,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U3 p32 CD.27 Present perfect vs past simple",
     "stem": {
       "format": "moodle",
-      "text": "U3 p32 CD.27 Present perfect vs past simple They _____ really badly until last season."
+      "text": "They _____ really badly until last season."
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -935,10 +935,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U3 p32 CD.28 Present perfect vs past simple",
     "stem": {
       "format": "moodle",
-      "text": "U3 p32 CD.28 Present perfect vs past simple I _____ the piano, but never in public before now."
+      "text": "I _____ the piano, but never in public before now."
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -967,10 +967,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U3 p32 CD.29 Present perfect vs past simple",
     "stem": {
       "format": "moodle",
-      "text": "U3 p32 CD.29 Present perfect vs past simple Stephen _____ in insurance until last summer."
+      "text": "Stephen _____ in insurance until last summer."
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -999,10 +999,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U3 p32 CD.30 Present perfect vs past simple",
     "stem": {
       "format": "moodle",
-      "text": "U3 p32 CD.30 Present perfect vs past simple You _____ in lots of different countries, haven't you?"
+      "text": "You _____ in lots of different countries, haven't you?"
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,

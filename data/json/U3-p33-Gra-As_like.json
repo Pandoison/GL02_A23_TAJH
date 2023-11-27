@@ -14,19 +14,19 @@
     "id": null,
     "tags": null,
     "type": "Description",
-    "title": null,
+    "title": "U3 p33 Gra as/like 6.0",
     "stem": {
-      "format": "moodle",
-      "text": "U3 p33 Gra as/like 6.0 [markdown]Complete the sentences with _as_ or _like_."
+      "format": "markdown",
+      "text": "Complete the sentences with _as_ or _like_."
     },
     "hasEmbeddedAnswers": false
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U3 p33 Gra as/like 6.1",
     "stem": {
       "format": "moodle",
-      "text": "U3 p33 Gra as/like 6.1 Was that film _____ all his other ones?"
+      "text": "Was that film _____ all his other ones?"
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -55,10 +55,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U3 p33 Gra as/like 6.2",
     "stem": {
       "format": "moodle",
-      "text": "U3 p33 Gra as/like 6.2 Shall we still have lunch together, _____ we said yesterday?"
+      "text": "Shall we still have lunch together, _____ we said yesterday?"
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -87,74 +87,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U3 p33 Gra as/like 6.3",
     "stem": {
       "format": "moodle",
-      "text": "U3 p33 Gra as/like 6.3 I've always regarded you _____ a friend."
-    },
-    "hasEmbeddedAnswers": true,
-    "globalFeedback": null,
-    "choices": [
-      {
-        "isCorrect": true,
-        "weight": null,
-        "text": {
-          "format": "moodle",
-          "text": "as"
-        },
-        "feedback": null
-      },
-      {
-        "isCorrect": false,
-        "weight": null,
-        "text": {
-          "format": "moodle",
-          "text": "like"
-        },
-        "feedback": null
-      }
-    ],
-    "id": null,
-    "tags": null
-  },
-  {
-    "type": "MC",
-    "title": null,
-    "stem": {
-      "format": "moodle",
-      "text": "U3 p33 Gra as/like 6.4 A job _____ that one takes a long time to finish."
-    },
-    "hasEmbeddedAnswers": true,
-    "globalFeedback": null,
-    "choices": [
-      {
-        "isCorrect": false,
-        "weight": null,
-        "text": {
-          "format": "moodle",
-          "text": "as"
-        },
-        "feedback": null
-      },
-      {
-        "isCorrect": true,
-        "weight": null,
-        "text": {
-          "format": "moodle",
-          "text": "like"
-        },
-        "feedback": null
-      }
-    ],
-    "id": null,
-    "tags": null
-  },
-  {
-    "type": "MC",
-    "title": null,
-    "stem": {
-      "format": "moodle",
-      "text": "U3 p33 Gra as/like 6.5 He's working _____ a waiter in the holidays."
+      "text": "I've always regarded you _____ a friend."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -183,10 +119,74 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U3 p33 Gra as/like 6.4",
     "stem": {
       "format": "moodle",
-      "text": "U3 p33 Gra as/like 6.6 Please do it carefully _____ I asked you."
+      "text": "A job _____ that one takes a long time to finish."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "as"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "like"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": "U3 p33 Gra as/like 6.5",
+    "stem": {
+      "format": "moodle",
+      "text": "He's working _____ a waiter in the holidays."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "as"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "like"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": "U3 p33 Gra as/like 6.6",
+    "stem": {
+      "format": "moodle",
+      "text": "Please do it carefully _____ I asked you."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -215,10 +215,10 @@
   },
   {
     "type": "Matching",
-    "title": null,
+    "title": "U3 p33 Gra as/like GR3",
     "stem": {
       "format": "moodle",
-      "text": "U3 p33 Gra as/like GR3 Match the following clauses to make sentences."
+      "text": "Match the following clauses to make sentences."
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,

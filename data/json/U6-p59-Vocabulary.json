@@ -1,10 +1,10 @@
 [
   {
     "type": "Short",
-    "title": null,
+    "title": "U6 p59 Voc10.1 the arts",
     "stem": {
-      "format": "moodle",
-      "text": "U6 p59 Voc10.1 the arts [html]<small><p><i>Complete the sentence with one of the following words) <b>abstract • blockbusters • cast • contemporary • gallery • productions</b>.</i></p></small> <p>I'm not convinced I like all classical ballet but I love _____ dance.</p>"
+      "format": "html",
+      "text": "<small><p><i>Complete the sentence with one of the following words) <b>abstract • blockbusters • cast • contemporary • gallery • productions</b>.</i></p></small>\n<p>I'm not convinced I like all classical ballet but I love  _____ dance.</p>"
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -13,7 +13,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "contemporary"
         },
         "feedback": null
@@ -24,10 +24,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U6 p59 Voc10.2 the arts",
     "stem": {
-      "format": "moodle",
-      "text": "U6 p59 Voc10.2 the arts [html]<small><p><i>Complete the sentence with one of the following words) <b>abstract • blockbusters • cast • contemporary • gallery • productions</b>.</i></p></small> <p>I sometimes nip into an art _____ or exhibition during my lunch break.</p>"
+      "format": "html",
+      "text": "<small><p><i>Complete the sentence with one of the following words) <b>abstract • blockbusters • cast • contemporary • gallery • productions</b>.</i></p></small>\n<p>I sometimes nip into an art  _____ or exhibition during my lunch break.</p>"
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -36,7 +36,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "gallery"
         },
         "feedback": null
@@ -47,10 +47,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U6 p59 Voc10.3 the arts",
     "stem": {
-      "format": "moodle",
-      "text": "U6 p59 Voc10.3 the arts [html]<small><p><i>Complete the sentence with one of the following words) <b>abstract • blockbusters • cast • contemporary • gallery • productions</b>.</i></p></small> <p>I prefer landscapes or portraits to more _____ paintings.</p>"
+      "format": "html",
+      "text": "<small><p><i>Complete the sentence with one of the following words) <b>abstract • blockbusters • cast • contemporary • gallery • productions</b>.</i></p></small>\n<p>I prefer landscapes or portraits to more  _____ paintings.</p>"
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -59,7 +59,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "abstract"
         },
         "feedback": null
@@ -70,10 +70,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U6 p59 Voc10.4 the arts",
     "stem": {
-      "format": "moodle",
-      "text": "U6 p59 Voc10.4 the arts [html]<small><p><i>Complete the sentence with one of the following words) <b>abstract • blockbusters • cast • contemporary • gallery • productions</b>.</i></p></small> <p>I'll often go to a play more than once if there's a different _____ performing.</p>"
+      "format": "html",
+      "text": "<small><p><i>Complete the sentence with one of the following words) <b>abstract • blockbusters • cast • contemporary • gallery • productions</b>.</i></p></small>\n<p>I'll often go to a play more than once if there's a different  _____ performing.</p>"
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -82,7 +82,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "cast"
         },
         "feedback": null
@@ -93,10 +93,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U6 p59 Voc10.5 the arts",
     "stem": {
-      "format": "moodle",
-      "text": "U6 p59 Voc10.5 the arts [html]<small><p><i>Complete the sentence with one of the following words) <b>abstract • blockbusters • cast • contemporary • gallery • productions</b>.</i></p></small> <p>I tend to go for original theatre _____ by controversial directors.</p>"
+      "format": "html",
+      "text": "<small><p><i>Complete the sentence with one of the following words) <b>abstract • blockbusters • cast • contemporary • gallery • productions</b>.</i></p></small>\n<p>I tend to go for original theatre  _____ by controversial directors.</p>"
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -105,7 +105,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "productions"
         },
         "feedback": null
@@ -116,10 +116,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U6 p59 Voc10.6 the arts",
     "stem": {
-      "format": "moodle",
-      "text": "U6 p59 Voc10.6 the arts [html]<small><p><i>Complete the sentence with one of the following words) <b>abstract • blockbusters • cast • contemporary • gallery • productions</b>.</i></p></small> <p>I'm a keen film-goer but I usually avoid _____ ."
+      "format": "html",
+      "text": "<small><p><i>Complete the sentence with one of the following words) <b>abstract • blockbusters • cast • contemporary • gallery • productions</b>.</i></p></small>\n<p>I'm a keen film-goer but I usually avoid  _____ ."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -128,7 +128,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "blockbusters"
         },
         "feedback": null

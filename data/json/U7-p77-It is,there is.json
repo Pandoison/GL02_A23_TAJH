@@ -14,19 +14,19 @@
     "id": null,
     "tags": null,
     "type": "Description",
-    "title": null,
+    "title": "U7 p77 [It/There is] 4.0",
     "stem": {
-      "format": "moodle",
-      "text": "U7 p77 [It/There is] 4.0 [html]Complete these sentences with <i>it</i> or <i>there</i> and a form of <i>be</i> if necessary."
+      "format": "html",
+      "text": "Complete these sentences with <i>it</i> or <i>there</i> and a form of <i>be</i> if necessary."
     },
     "hasEmbeddedAnswers": false
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U7 p77 [It/There is] 4.1",
     "stem": {
       "format": "moodle",
-      "text": "U7 p77 [It/There is] 4.1 _____ not unusual to have dinner at 10.30p.m."
+      "text": "_____ not unusual to have dinner at 10.30p.m."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -73,10 +73,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U7 p77 [It/There is] 4.2",
     "stem": {
       "format": "moodle",
-      "text": "U7 p77 [It/There is] 4.2 _____ common for men to greet each other with a kiss on the cheek."
+      "text": "_____ common for men to greet each other with a kiss on the cheek."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -123,10 +123,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U7 p77 [It/There is] 4.3",
     "stem": {
       "format": "moodle",
-      "text": "U7 p77 [It/There is] 4.3 _____ might sometimes be applause when a guest arrives."
+      "text": "_____ might sometimes be applause when a guest arrives."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -155,10 +155,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U7 p77 [It/There is] 4.4",
     "stem": {
       "format": "moodle",
-      "text": "U7 p77 [It/There is] 4.4 _____ no need to tip waiters in restaurants."
+      "text": "_____ no need to tip waiters in restaurants."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -205,10 +205,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U7 p77 [It/There is] GR+.1",
     "stem": {
       "format": "moodle",
-      "text": "U7 p77 [It/There is] GR+.1 _____ is good that you can come to the party."
+      "text": "_____ is good that you can come to the party."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -237,10 +237,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U7 p77 [It/There is] GR+.2",
     "stem": {
       "format": "moodle",
-      "text": "U7 p77 [It/There is] GR+.2 _____ is some food on the table."
+      "text": "_____ is some food on the table."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -269,10 +269,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U7 p77 [It/There is] GR+.3",
     "stem": {
       "format": "moodle",
-      "text": "U7 p77 [It/There is] GR+.3 _____ might be a traffic jam unless we leave early."
+      "text": "_____ might be a traffic jam unless we leave early."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -301,10 +301,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U7 p77 [It/There is] GR+.4",
     "stem": {
       "format": "moodle",
-      "text": "U7 p77 [It/There is] GR+.4 _____ is almost lunchtime."
+      "text": "_____ is almost lunchtime."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -333,10 +333,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U7 p77 [It/There is] GR+.5",
     "stem": {
       "format": "moodle",
-      "text": "U7 p77 [It/There is] GR+.5 _____ was a very nice meal. Thank you."
+      "text": "_____ was a very nice meal. Thank you."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -365,10 +365,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U7 p77 [It/There is] GR+.6",
     "stem": {
       "format": "moodle",
-      "text": "U7 p77 [It/There is] GR+.6 _____ is very cold again today."
+      "text": "_____ is very cold again today."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -397,10 +397,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U7 p77 [It/There is] GR+.7",
     "stem": {
       "format": "moodle",
-      "text": "U7 p77 [It/There is] GR+.7 _____ is someone at the door. Can you answer it, please?"
+      "text": "_____ is someone at the door. Can you answer it, please?"
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -429,10 +429,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U7 p77 [It/There is] GR+.8",
     "stem": {
       "format": "moodle",
-      "text": "U7 p77 [It/There is] GR+.8 _____ isn't any time to have a quick coffee first."
+      "text": "_____ isn't any time to have a quick coffee first."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,

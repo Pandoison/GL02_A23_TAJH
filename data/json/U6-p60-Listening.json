@@ -3,19 +3,19 @@
     "id": null,
     "tags": null,
     "type": "Description",
-    "title": null,
+    "title": "U6 p60 Listening Audio1",
     "stem": {
       "format": "moodle",
-      "text": "U6 p60 Listening Audio1 You will hear people talking in eight different situations. First, identify the key words in the question below. Then listen and choose the best answer. https)//serge.bibauw.be/teaching/english5/gold_b2_cb_18_u6_p60_listening.mp3"
+      "text": "You will hear people talking in eight different situations. First, identify the key words in the question below. Then listen and choose the best answer. https)//serge.bibauw.be/teaching/english5/gold_b2_cb_18_u6_p60_listening.mp3"
     },
     "hasEmbeddedAnswers": false
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U6 p60 Listening 1.1",
     "stem": {
       "format": "moodle",
-      "text": "U6 p60 Listening 1.1 You hear a woman talking about a play. What did she dislike about it?"
+      "text": "You hear a woman talking about a play. What did she dislike about it?"
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -55,19 +55,19 @@
     "id": null,
     "tags": null,
     "type": "Description",
-    "title": null,
+    "title": "U6 p60 Listening Audio2",
     "stem": {
       "format": "moodle",
-      "text": "U6 p60 Listening Audio2 Identify the key words in the following questions. Then listen and choose the best answer. https)//serge.bibauw.be/teaching/english5/gold_b2_cb_19_u6_p60_listening.mp3"
+      "text": "Identify the key words in the following questions. Then listen and choose the best answer. https)//serge.bibauw.be/teaching/english5/gold_b2_cb_19_u6_p60_listening.mp3"
     },
     "hasEmbeddedAnswers": false
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U6 p60 Listening 3.2",
     "stem": {
       "format": "moodle",
-      "text": "U6 p60 Listening 3.2 You hear a man and a woman talking about a visit to the theatre. How does the woman feel about the arrangements?"
+      "text": "You hear a man and a woman talking about a visit to the theatre. How does the woman feel about the arrangements?"
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -105,10 +105,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U6 p60 Listening 3.3",
     "stem": {
       "format": "moodle",
-      "text": "U6 p60 Listening 3.3 You hear part of a radio programme. What kind of programme is it?"
+      "text": "You hear part of a radio programme. What kind of programme is it?"
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -146,10 +146,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U6 p60 Listening 3.4",
     "stem": {
       "format": "moodle",
-      "text": "U6 p60 Listening 3.4 You hear a woman giving some information on the radio about a comedy festival. Why is it going to be different this year?"
+      "text": "You hear a woman giving some information on the radio about a comedy festival. Why is it going to be different this year?"
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -187,10 +187,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U6 p60 Listening 3.5",
     "stem": {
       "format": "moodle",
-      "text": "U6 p60 Listening 3.5 You hear a man interviewing a ballet dancer on the radio. Why has she decided to retire later this year?"
+      "text": "You hear a man interviewing a ballet dancer on the radio. Why has she decided to retire later this year?"
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -228,10 +228,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U6 p60 Listening 3.6",
     "stem": {
       "format": "moodle",
-      "text": "U6 p60 Listening 3.6 You hear a man and a woman talking on the radio about a new art exhibition. What do they agree is special about it?"
+      "text": "You hear a man and a woman talking on the radio about a new art exhibition. What do they agree is special about it?"
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -269,10 +269,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U6 p60 Listening 3.7",
     "stem": {
       "format": "moodle",
-      "text": "U6 p60 Listening 3.7 You hear an actress being interviewed on the radio. What is she doing?"
+      "text": "You hear an actress being interviewed on the radio. What is she doing?"
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -310,10 +310,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U6 p60 Listening 3.8",
     "stem": {
       "format": "moodle",
-      "text": "U6 p60 Listening 3.8 You hear a man and a woman talking. Who is the man?"
+      "text": "You hear a man and a woman talking. Who is the man?"
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,

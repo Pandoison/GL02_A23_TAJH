@@ -3,10 +3,10 @@
     "id": null,
     "tags": null,
     "type": "Description",
-    "title": null,
+    "title": "U5 p52 2 Reading) compr questions",
     "stem": {
       "format": "moodle",
-      "text": "U5 p52 2 Reading) compr questions Read the article) <INSERT TEXT IMAGE HERE>"
+      "text": "Read the article) <INSERT TEXT IMAGE HERE>"
     },
     "hasEmbeddedAnswers": false
   },
@@ -14,19 +14,19 @@
     "id": null,
     "tags": null,
     "type": "Description",
-    "title": null,
+    "title": "U5 p52 3.0 Reading compr",
     "stem": {
       "format": "moodle",
-      "text": "U5 p52 3.0 Reading compr For the following questions, choose the answer which you think fits best according to the text."
+      "text": "For the following questions, choose the answer which you think fits best according to the text."
     },
     "hasEmbeddedAnswers": false
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U5 p52 3.1 Reading compr",
     "stem": {
       "format": "moodle",
-      "text": "U5 p52 3.1 Reading compr Why did Rob Rhinehart initially create Soylent?"
+      "text": "Why did Rob Rhinehart initially create Soylent?"
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -73,10 +73,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U5 p52 3.2 Reading compr",
     "stem": {
       "format": "moodle",
-      "text": "U5 p52 3.2 Reading compr Following the interest in his blog, Rhinehart"
+      "text": "Following the interest in his blog, Rhinehart"
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -123,10 +123,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U5 p52 3.3 Reading compr",
     "stem": {
       "format": "moodle",
-      "text": "U5 p52 3.3 Reading compr The writer was surprised by the public reaction to Soylent because"
+      "text": "The writer was surprised by the public reaction to Soylent because"
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -173,10 +173,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U5 p52 3.4 Reading compr",
     "stem": {
       "format": "moodle",
-      "text": "U5 p52 3.4 Reading compr What does Rhinehart say about people's eating habits in the future?"
+      "text": "What does Rhinehart say about people's eating habits in the future?"
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -223,10 +223,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U5 p52 3.5 Reading compr",
     "stem": {
       "format": "moodle",
-      "text": "U5 p52 3.5 Reading compr What point is made in the fifth paragraph?"
+      "text": "What point is made in the fifth paragraph?"
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -273,10 +273,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U5 p52 3.6 Reading compr",
     "stem": {
       "format": "moodle",
-      "text": "U5 p52 3.6 Reading compr In the final paragraph, the writer expresses"
+      "text": "In the final paragraph, the writer expresses"
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -323,10 +323,10 @@
   },
   {
     "type": "Matching",
-    "title": null,
+    "title": "U5 p52 6 Reading/Vocab expressions",
     "stem": {
       "format": "moodle",
-      "text": "U5 p52 6 Reading/Vocab expressions Match the underlined phrases in the article to their meanings)"
+      "text": "Match the underlined phrases in the article to their meanings)"
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -381,19 +381,19 @@
     "id": null,
     "tags": null,
     "type": "Description",
-    "title": null,
+    "title": "U5 p52 7.0 Reading/Vocab collocations",
     "stem": {
       "format": "moodle",
-      "text": "U5 p52 7.0 Reading/Vocab collocations Decide whether both or only one of the verbs in italics collocates with the noun. If necessary, check the meaning in a dictionary."
+      "text": "Decide whether both or only one of the verbs in italics collocates with the noun. If necessary, check the meaning in a dictionary."
     },
     "hasEmbeddedAnswers": false
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U5 p52 7.1 Collocations",
     "stem": {
       "format": "moodle",
-      "text": "U5 p52 7.1 Collocations Their crop of soya beans has ______ in size."
+      "text": "Their crop of soya beans has ______ in size."
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -422,10 +422,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U5 p52 7.2 Collocations",
     "stem": {
       "format": "moodle",
-      "text": "U5 p52 7.2 Collocations The business ______ rapidly."
+      "text": "The business ______ rapidly."
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -454,10 +454,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U5 p52 7.3 Collocations",
     "stem": {
       "format": "moodle",
-      "text": "U5 p52 7.3 Collocations They ______ a huge family on very little money."
+      "text": "They ______ a huge family on very little money."
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -486,10 +486,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U5 p52 7.4 Collocations",
     "stem": {
       "format": "moodle",
-      "text": "U5 p52 7.4 Collocations No one ______ any objections to the plan."
+      "text": "No one ______ any objections to the plan."
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,
@@ -518,10 +518,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U5 p52 7.5 Collocations",
     "stem": {
       "format": "moodle",
-      "text": "U5 p52 7.5 Collocations The company had to ______ production to meet demand for the product."
+      "text": "The company had to ______ production to meet demand for the product."
     },
     "hasEmbeddedAnswers": false,
     "globalFeedback": null,

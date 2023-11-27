@@ -14,19 +14,19 @@
     "id": null,
     "tags": null,
     "type": "Description",
-    "title": null,
+    "title": "U7 p77 [Key word transformation] 6.0",
     "stem": {
-      "format": "moodle",
-      "text": "U7 p77 [Key word transformation] 6.0 [html]Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between two and five words, including the word given.<br> <b>Exam Tip</b>) <i>Remember contractions, e.g. ‘isn't’, count as two words.</i>"
+      "format": "html",
+      "text": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between two and five words, including the word given.<br>\n<b>Exam Tip</b>) <i>Remember contractions, e.g. ‘isn't’, count as two words.</i>"
     },
     "hasEmbeddedAnswers": false
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U7 p77 [Key word transformation] 6.1",
     "stem": {
-      "format": "moodle",
-      "text": "U7 p77 [Key word transformation] 6.1 [html]It was too foggy for us to ski.<br> <b>SO</b><br> It was _____ not ski."
+      "format": "html",
+      "text": "It was too foggy for us to ski.<br>\n<b>SO</b><br>\nIt was  _____ not ski."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -35,7 +35,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "so foggy we could"
         },
         "feedback": null
@@ -44,7 +44,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "so foggy that we could"
         },
         "feedback": null
@@ -55,10 +55,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U7 p77 [Key word transformation] 6.2",
     "stem": {
-      "format": "moodle",
-      "text": "U7 p77 [Key word transformation] 6.2 [html]He couldn't afford a taxi, so he went by bus.<br> <b>ENOUGH</b><br> He _____ for a taxi, so he went by bus."
+      "format": "html",
+      "text": "He couldn't afford a taxi, so he went by bus.<br>\n<b>ENOUGH</b><br>\nHe  _____ for a taxi, so he went by bus."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -67,7 +67,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "didn't have enough money"
         },
         "feedback": null
@@ -76,7 +76,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "hadn't got enough money"
         },
         "feedback": null
@@ -85,7 +85,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "did not have enough money"
         },
         "feedback": null
@@ -94,7 +94,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "had not got enough money"
         },
         "feedback": null
@@ -105,10 +105,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U7 p77 [Key word transformation] 6.3",
     "stem": {
-      "format": "moodle",
-      "text": "U7 p77 [Key word transformation] 6.3 [html]There was so much traffic that we missed the show.<br> <b>SUCH</b><br> There was _____ that we missed the show."
+      "format": "html",
+      "text": "There was so much traffic that we missed the show.<br>\n<b>SUCH</b><br>\nThere was  _____ that we missed the show."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -117,7 +117,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "such a lot of traffic"
         },
         "feedback": null
@@ -128,10 +128,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U7 p77 [Key word transformation] 6.4",
     "stem": {
-      "format": "moodle",
-      "text": "U7 p77 [Key word transformation] 6.4 [html]I had a wonderful time and I really enjoyed seeing everyone again.<br> <b>GREAT</b><br> I had a wonderful time and _____ everyone again."
+      "format": "html",
+      "text": "I had a wonderful time and I really enjoyed seeing everyone again.<br>\n<b>GREAT</b><br>\nI had a wonderful time and  _____ everyone again."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -140,7 +140,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "it was great to see"
         },
         "feedback": null
@@ -151,10 +151,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U7 p77 [Key word transformation] 6.5",
     "stem": {
-      "format": "moodle",
-      "text": "U7 p77 [Key word transformation] 6.5 [html]He said I didn't need to make an appointment.<br> <b>NEED</b><br> He said _____ for me to make an appointment."
+      "format": "html",
+      "text": "He said I didn't need to make an appointment.<br>\n<b>NEED</b><br>\nHe said  _____ for me to make an appointment."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -163,7 +163,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "there was no need"
         },
         "feedback": null
@@ -174,10 +174,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U7 p77 [Key word transformation] 6.6",
     "stem": {
-      "format": "moodle",
-      "text": "U7 p77 [Key word transformation] 6.6 [html]I think that taking your coat is unnecessary.<br> <b>POINT</b><br> I think that _____ taking your coat."
+      "format": "html",
+      "text": "I think that taking your coat is unnecessary.<br>\n<b>POINT</b><br>\nI think that  _____ taking your coat."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -186,7 +186,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "there is no point in"
         },
         "feedback": null
@@ -195,7 +195,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "there's no point in"
         },
         "feedback": null

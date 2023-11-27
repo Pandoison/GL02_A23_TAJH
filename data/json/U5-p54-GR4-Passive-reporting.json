@@ -3,19 +3,19 @@
     "id": null,
     "tags": null,
     "type": "Description",
-    "title": null,
+    "title": "U5 p54 GR4.0 Passive reporting forms",
     "stem": {
       "format": "moodle",
-      "text": "U5 p54 GR4.0 Passive reporting forms Rewrite the sentences using passive reporting verbs."
+      "text": "Rewrite the sentences using passive reporting verbs."
     },
     "hasEmbeddedAnswers": false
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U5 p54 GR4.1 Passive reporting forms",
     "stem": {
-      "format": "moodle",
-      "text": "U5 p54 GR4.1 Passive reporting forms [html]People reported that there were gunshots.<br> It _____ ."
+      "format": "html",
+      "text": "People reported that there were gunshots.<br>\nIt  _____ ."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -24,7 +24,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "was reported that there were gunshots"
         },
         "feedback": null
@@ -33,7 +33,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "was reported that there were gunshots."
         },
         "feedback": null
@@ -44,10 +44,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U5 p54 GR4.2 Passive reporting forms",
     "stem": {
-      "format": "moodle",
-      "text": "U5 p54 GR4.2 Passive reporting forms [html]People claim that the money was stolen.<br> It _____ ."
+      "format": "html",
+      "text": "People claim that the money was stolen.<br>\nIt  _____ ."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -56,7 +56,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "is claimed that the money was stolen"
         },
         "feedback": null
@@ -65,7 +65,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "'s claimed that the money was stolen"
         },
         "feedback": null
@@ -74,7 +74,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "is claimed that the money was stolen."
         },
         "feedback": null
@@ -83,7 +83,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "'s claimed that the money was stolen."
         },
         "feedback": null
@@ -94,10 +94,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U5 p54 GR4.3 Passive reporting forms",
     "stem": {
-      "format": "moodle",
-      "text": "U5 p54 GR4.3 Passive reporting forms [html]People think that the suspect has left the country.<br> The suspect _____ ."
+      "format": "html",
+      "text": "People think that the suspect has left the country.<br>\nThe suspect  _____ ."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -106,7 +106,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "is thought to have left the country"
         },
         "feedback": null
@@ -115,7 +115,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "is thought to have left the country."
         },
         "feedback": null
@@ -126,10 +126,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U5 p54 GR4.4 Passive reporting forms",
     "stem": {
-      "format": "moodle",
-      "text": "U5 p54 GR4.4 Passive reporting forms [html]People say that the police made a lot of mistakes.<br> The police _____ ."
+      "format": "html",
+      "text": "People say that the police made a lot of mistakes.<br>\nThe police  _____ ."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -138,7 +138,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "are said to have made a lot of mistakes"
         },
         "feedback": null
@@ -147,7 +147,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "are said to have made a lot of mistakes."
         },
         "feedback": null
@@ -158,10 +158,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U5 p54 GR4.5 Passive reporting forms",
     "stem": {
-      "format": "moodle",
-      "text": "U5 p54 GR4.5 Passive reporting forms [html]People believe that the criminal had a false passport.<br> It _____ ."
+      "format": "html",
+      "text": "People believe that the criminal had a false passport.<br>\nIt  _____ ."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -170,7 +170,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "is believed that the criminal had a false passport"
         },
         "feedback": null
@@ -179,7 +179,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "'s believed that the criminal had a false passport"
         },
         "feedback": null
@@ -188,7 +188,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "is believed that the criminal had a false passport."
         },
         "feedback": null
@@ -197,7 +197,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "'s believed that the criminal had a false passport."
         },
         "feedback": null

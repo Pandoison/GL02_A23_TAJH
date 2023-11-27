@@ -1,4 +1,5 @@
-let question = function(indication, consigne, type, resp ){
+let question = function(id, indication, consigne, type, resp ){
+    this.id = id;
     this.consigne = consigne;
     this.type = type;
     this.indication = indication;

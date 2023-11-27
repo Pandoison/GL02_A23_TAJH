@@ -3,19 +3,19 @@
     "id": null,
     "tags": null,
     "type": "Description",
-    "title": null,
+    "title": "U6 p67 Rev1.0",
     "stem": {
       "format": "moodle",
-      "text": "U6 p67 Rev1.0 Complete the sentences using the correct form of the word in brackets."
+      "text": "Complete the sentences using the correct form of the word in brackets."
     },
     "hasEmbeddedAnswers": false
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U6 p67 Rev1.1",
     "stem": {
-      "format": "moodle",
-      "text": "U6 p67 Rev1.1 [html]Some people think that new technology will lead to the _____ (<i>destroy</i>) of the film industry."
+      "format": "html",
+      "text": "Some people think that new technology will lead to the  _____ (<i>destroy</i>) of the film industry."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -24,7 +24,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "destruction"
         },
         "feedback": null
@@ -35,10 +35,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U6 p67 Rev1.2",
     "stem": {
-      "format": "moodle",
-      "text": "U6 p67 Rev1.2 [html]An _____ (<i>excess</i>) amount of practice can lead to more injuries for dancers."
+      "format": "html",
+      "text": "An  _____ (<i>excess</i>) amount of practice can lead to more injuries for dancers."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -47,7 +47,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "excessive"
         },
         "feedback": null
@@ -58,10 +58,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U6 p67 Rev1.3",
     "stem": {
-      "format": "moodle",
-      "text": "U6 p67 Rev1.3 [html]There is no _____ (<i>evident</i>) as yet that robots will be a serious threat to jobs."
+      "format": "html",
+      "text": "There is no  _____ (<i>evident</i>) as yet that robots will be a serious threat to jobs."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -70,7 +70,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "evidence"
         },
         "feedback": null
@@ -81,10 +81,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U6 p67 Rev1.4",
     "stem": {
-      "format": "moodle",
-      "text": "U6 p67 Rev1.4 [html]The film is a _____ (<i>fiction</i>) account of a great painter's life."
+      "format": "html",
+      "text": "The film is a  _____ (<i>fiction</i>) account of a great painter's life."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -93,7 +93,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "fictional"
         },
         "feedback": null
@@ -104,10 +104,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U6 p67 Rev1.5",
     "stem": {
-      "format": "moodle",
-      "text": "U6 p67 Rev1.5 [html]I sometimes like to escape from _____ (<i>real</i>) by going to a musical."
+      "format": "html",
+      "text": "I sometimes like to escape from  _____ (<i>real</i>) by going to a musical."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -116,7 +116,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "reality"
         },
         "feedback": null
@@ -127,10 +127,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U6 p67 Rev1.6",
     "stem": {
-      "format": "moodle",
-      "text": "U6 p67 Rev1.6 [html]We wanted to see a film, but there wasn't much _____ (<i>choose</i>)."
+      "format": "html",
+      "text": "We wanted to see a film, but there wasn't much  _____ (<i>choose</i>)."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -139,7 +139,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "choice"
         },
         "feedback": null
@@ -152,19 +152,19 @@
     "id": null,
     "tags": null,
     "type": "Description",
-    "title": null,
+    "title": "U6 p67 Rev2.0 ",
     "stem": {
       "format": "moodle",
-      "text": "U6 p67 Rev2.0 Complete the sentences with the words in the box."
+      "text": "Complete the sentences with the words in the box."
     },
     "hasEmbeddedAnswers": false
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U6 p67 Rev2.1",
     "stem": {
       "format": "moodle",
-      "text": "U6 p67 Rev2.1 The only way I can get _____ to my cousin is by talking about dance."
+      "text": "The only way I can get _____ to my cousin is by talking about dance."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -229,10 +229,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U6 p67 Rev2.2",
     "stem": {
       "format": "moodle",
-      "text": "U6 p67 Rev2.2 <i>City Lights</i> is on TV tonight. I never got _____ to seeing that at the cinema."
+      "text": "<i>City Lights</i> is on TV tonight. I never got _____ to seeing that at the cinema."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -297,10 +297,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U6 p67 Rev2.3",
     "stem": {
       "format": "moodle",
-      "text": "U6 p67 Rev2.3 It took him ages to get _____ the disappointment of not being in the play."
+      "text": "It took him ages to get _____ the disappointment of not being in the play."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -365,10 +365,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U6 p67 Rev2.4",
     "stem": {
       "format": "moodle",
-      "text": "U6 p67 Rev2.4 If I stay in every night watching TV, it gets me _____ ."
+      "text": "If I stay in every night watching TV, it gets me _____ ."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -433,10 +433,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U6 p67 Rev2.5",
     "stem": {
       "format": "moodle",
-      "text": "U6 p67 Rev2.5 Comedians can't get _____ with simply repeating the same jokes at every performance."
+      "text": "Comedians can't get _____ with simply repeating the same jokes at every performance."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -501,10 +501,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U6 p67 Rev2.6",
     "stem": {
       "format": "moodle",
-      "text": "U6 p67 Rev2.6 Everyone says it's a really good series, but I just can't get _____ it."
+      "text": "Everyone says it's a really good series, but I just can't get _____ it."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -571,19 +571,19 @@
     "id": null,
     "tags": null,
     "type": "Description",
-    "title": null,
+    "title": "U6 p67 Rev3.0",
     "stem": {
       "format": "moodle",
-      "text": "U6 p67 Rev3.0 Complete the sentences with the future continuous or future perfect form of the verbs in brackets."
+      "text": "Complete the sentences with the future continuous or future perfect form of the verbs in brackets."
     },
     "hasEmbeddedAnswers": false
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U6 p67 Rev3.1",
     "stem": {
-      "format": "moodle",
-      "text": "U6 p67 Rev3.1 [html]I think I'll still _____ (<i>learn</i>) my lines until just before the play starts."
+      "format": "html",
+      "text": "I think I'll still  _____ (<i>learn</i>) my lines until just before the play starts."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -592,7 +592,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "be learning"
         },
         "feedback": null
@@ -603,10 +603,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U6 p67 Rev3.2",
     "stem": {
-      "format": "moodle",
-      "text": "U6 p67 Rev3.2 [html]The film may already _____ (<i>start</i>) by the time we get there."
+      "format": "html",
+      "text": "The film may already  _____ (<i>start</i>) by the time we get there."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -615,7 +615,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "have started|have started"
         },
         "feedback": null
@@ -626,10 +626,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U6 p67 Rev3.3",
     "stem": {
-      "format": "moodle",
-      "text": "U6 p67 Rev3.3 [html]I hope they'll _____ (<i>show</i>) his still lifes at the exhibition."
+      "format": "html",
+      "text": "I hope they'll  _____ (<i>show</i>) his still lifes at the exhibition."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -638,7 +638,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "show"
         },
         "feedback": null
@@ -647,7 +647,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "be showing"
         },
         "feedback": null
@@ -658,10 +658,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U6 p67 Rev3.4",
     "stem": {
-      "format": "moodle",
-      "text": "U6 p67 Rev3.4 [html]We might _____ (<i>use</i>) the same costumes in our next production."
+      "format": "html",
+      "text": "We might  _____ (<i>use</i>) the same costumes in our next production."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -670,7 +670,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "use|be using"
         },
         "feedback": null
@@ -681,10 +681,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U6 p67 Rev3.5",
     "stem": {
-      "format": "moodle",
-      "text": "U6 p67 Rev3.5 [html]People will probably still _____ (<i>watch</i>) live theatre in fifty years' time."
+      "format": "html",
+      "text": "People will probably still  _____ (<i>watch</i>) live theatre in fifty years' time."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -693,7 +693,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "watch"
         },
         "feedback": null
@@ -702,7 +702,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "be watching"
         },
         "feedback": null
@@ -713,10 +713,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U6 p67 Rev3.6",
     "stem": {
-      "format": "moodle",
-      "text": "U6 p67 Rev3.6 [html]I think people will _____ (<i>lose</i>) interest in computer games a long time before 2025."
+      "format": "html",
+      "text": "I think people will  _____ (<i>lose</i>) interest in computer games a long time before 2025."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -725,7 +725,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "html",
           "text": "have lost"
         },
         "feedback": null
@@ -738,19 +738,19 @@
     "id": null,
     "tags": null,
     "type": "Description",
-    "title": null,
+    "title": "U6 p67 Rev4.0",
     "stem": {
       "format": "moodle",
-      "text": "U6 p67 Rev4.0 Choose the correct option."
+      "text": "Choose the correct option."
     },
     "hasEmbeddedAnswers": false
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U6 p67 Rev4.1",
     "stem": {
       "format": "moodle",
-      "text": "U6 p67 Rev4.1 Sorry, I can't come on Saturday. I _____ an old school friend for lunch."
+      "text": "Sorry, I can't come on Saturday. I _____ an old school friend for lunch."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -788,10 +788,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U6 p67 Rev4.2",
     "stem": {
       "format": "moodle",
-      "text": "U6 p67 Rev4.2 As soon as she _____ , will you text me?"
+      "text": "As soon as she _____ , will you text me?"
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -829,10 +829,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U6 p67 Rev4.3",
     "stem": {
       "format": "moodle",
-      "text": "U6 p67 Rev4.3 I _____ my drama course by the end of next year."
+      "text": "I _____ my drama course by the end of next year."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -870,10 +870,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U6 p67 Rev4.4",
     "stem": {
       "format": "moodle",
-      "text": "U6 p67 Rev4.4 This time tomorrow, I _____ in front of hundreds of people."
+      "text": "This time tomorrow, I _____ in front of hundreds of people."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -911,10 +911,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U6 p67 Rev4.5",
     "stem": {
       "format": "moodle",
-      "text": "U6 p67 Rev4.5 Don't worry, I haven't forgotten. I _____ to him later."
+      "text": "Don't worry, I haven't forgotten. I _____ to him later."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -952,10 +952,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U6 p67 Rev4.6",
     "stem": {
       "format": "moodle",
-      "text": "U6 p67 Rev4.6 I'll meet you after I _____ work."
+      "text": "I'll meet you after I _____ work."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -993,10 +993,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U6 p67 Rev4.7",
     "stem": {
       "format": "moodle",
-      "text": "U6 p67 Rev4.7 Don't be nervous. I'm sure you _____ really well tomorrow."
+      "text": "Don't be nervous. I'm sure you _____ really well tomorrow."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -1034,10 +1034,10 @@
   },
   {
     "type": "MC",
-    "title": null,
+    "title": "U6 p67 Rev4.8",
     "stem": {
       "format": "moodle",
-      "text": "U6 p67 Rev4.8 Let's hurry! They _____ the theatre doors at 7.30 and then you have to wait until the interval to go in."
+      "text": "Let's hurry! They _____ the theatre doors at 7.30 and then you have to wait until the interval to go in."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,

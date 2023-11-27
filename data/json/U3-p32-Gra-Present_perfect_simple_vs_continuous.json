@@ -3,19 +3,19 @@
     "id": null,
     "tags": null,
     "type": "Description",
-    "title": null,
+    "title": "U3 p32 Gra8.0 Present perfect simple vs continuous Intro",
     "stem": {
       "format": "moodle",
-      "text": "U3 p32 Gra8.0 Present perfect simple vs continuous Intro Complete the sentences with the correct form of the verbs and phrases in brackets."
+      "text": "Complete the sentences with the correct form of the verbs and phrases in brackets."
     },
     "hasEmbeddedAnswers": false
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U3 p32 Gra8.1 Present perfect simple vs continuous",
     "stem": {
-      "format": "moodle",
-      "text": "U3 p32 Gra8.1 Present perfect simple vs continuous [markdown]I _____ _(ride)_ a motorbike since I was seventeen."
+      "format": "markdown",
+      "text": "I _____ _(ride)_ a motorbike since I was seventeen."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -24,7 +24,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "markdown",
           "text": "have been riding"
         },
         "feedback": null
@@ -33,7 +33,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "markdown",
           "text": "have ridden"
         },
         "feedback": null
@@ -42,7 +42,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "markdown",
           "text": "'ve been riding"
         },
         "feedback": null
@@ -51,7 +51,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "markdown",
           "text": "'ve ridden"
         },
         "feedback": null
@@ -60,7 +60,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "markdown",
           "text": "´ve been riding"
         },
         "feedback": null
@@ -69,7 +69,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "markdown",
           "text": "´ve ridden"
         },
         "feedback": null
@@ -80,10 +80,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U3 p32 Gra8.2 Present perfect simple vs continuous",
     "stem": {
-      "format": "moodle",
-      "text": "U3 p32 Gra8.2 Present perfect simple vs continuous [markdown]I _____ _(once witness)_ a crime."
+      "format": "markdown",
+      "text": "I _____ _(once witness)_ a crime."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -92,7 +92,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "markdown",
           "text": "once witnessed"
         },
         "feedback": null
@@ -101,7 +101,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "markdown",
           "text": "have witnessed a crime once"
         },
         "feedback": null
@@ -110,7 +110,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "markdown",
           "text": "have witnessed once"
         },
         "feedback": null
@@ -119,7 +119,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "markdown",
           "text": "'ve witnessed a crime once"
         },
         "feedback": null
@@ -128,7 +128,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "markdown",
           "text": "'ve witnessed once"
         },
         "feedback": null
@@ -137,7 +137,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "markdown",
           "text": "´ve witnessed once"
         },
         "feedback": null
@@ -148,10 +148,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U3 p32 Gra8.3 Present perfect simple vs continuous",
     "stem": {
-      "format": "moodle",
-      "text": "U3 p32 Gra8.3 Present perfect simple vs continuous [markdown]I _____ _(live)_ abroad when I was a child."
+      "format": "markdown",
+      "text": "I _____ _(live)_ abroad when I was a child."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -160,7 +160,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "markdown",
           "text": "lived"
         },
         "feedback": null
@@ -171,10 +171,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U3 p32 Gra8.4 Present perfect simple vs continuous",
     "stem": {
-      "format": "moodle",
-      "text": "U3 p32 Gra8.4 Present perfect simple vs continuous [markdown]I _____ _(have)_ an operation a few years ago."
+      "format": "markdown",
+      "text": "I _____ _(have)_ an operation a few years ago."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -183,7 +183,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "markdown",
           "text": "had"
         },
         "feedback": null
@@ -192,7 +192,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "markdown",
           "text": "'d"
         },
         "feedback": null
@@ -203,10 +203,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U3 p32 Gra8.5 Present perfect simple vs continuous",
     "stem": {
-      "format": "moodle",
-      "text": "U3 p32 Gra8.5 Present perfect simple vs continuous [markdown]I _____ _(never go)_ camping."
+      "format": "markdown",
+      "text": "I _____ _(never go)_ camping."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -215,7 +215,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "markdown",
           "text": "have never been"
         },
         "feedback": null
@@ -224,7 +224,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "markdown",
           "text": "'ve never been"
         },
         "feedback": null
@@ -233,7 +233,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "markdown",
           "text": "´ve never been"
         },
         "feedback": null
@@ -244,10 +244,10 @@
   },
   {
     "type": "Short",
-    "title": null,
+    "title": "U3 p32 Gra8.6 Present perfect simple vs continuous",
     "stem": {
-      "format": "moodle",
-      "text": "U3 p32 Gra8.6 Present perfect simple vs continuous [markdown]I _____ _(just win)_ a competition."
+      "format": "markdown",
+      "text": "I _____ _(just win)_ a competition."
     },
     "hasEmbeddedAnswers": true,
     "globalFeedback": null,
@@ -256,7 +256,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "markdown",
           "text": "have just won"
         },
         "feedback": null
@@ -265,7 +265,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "markdown",
           "text": "'ve just won"
         },
         "feedback": null
@@ -274,7 +274,7 @@
         "isCorrect": true,
         "weight": null,
         "text": {
-          "format": "moodle",
+          "format": "markdown",
           "text": "´ve just won"
         },
         "feedback": null
