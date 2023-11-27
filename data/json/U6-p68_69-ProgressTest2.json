@@ -1,0 +1,187 @@
+[
+  {
+    "id": null,
+    "tags": null,
+    "type": "Description",
+    "title": "U6 p68-69 ProgressTest2 4.0 Key word transformation",
+    "stem": {
+      "format": "html",
+      "text": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between two and five words, including the word given.<br>\n<b>Example)</b><br>\n <i>I don't think John has got his father's musical talent.</i> <i><b>AFTER</b></i><br>\n <i>John doesn't appear <b><u>to take after</u></b> his father as far as musical talent is concerned.</i>"
+    },
+    "hasEmbeddedAnswers": false
+  },
+  {
+    "type": "Short",
+    "title": "U6 p68-69 ProgressTest2 4.1",
+    "stem": {
+      "format": "html",
+      "text": "You will get the results by Friday. <b>GIVEN</b><br>\n I  _____ you the results by Friday."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "will have given"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "'ll have given"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": "U6 p68-69 ProgressTest2 4.2",
+    "stem": {
+      "format": "html",
+      "text": "A fast-food chain has taken over two of our local restaurants. <b>BY</b><br>\n Two of our local restaurants  _____ a fast-food chain."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "have been taken over by"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": "U6 p68-69 ProgressTest2 4.3",
+    "stem": {
+      "format": "html",
+      "text": "Nearly all the shops in this town are expensive. <b>HARDLY</b><br>\n There  _____ shops in this town."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "are hardly any cheap"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "inexpensive"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": "U6 p68-69 ProgressTest2 4.4",
+    "stem": {
+      "format": "html",
+      "text": "Many people believe that too much sugar is bad for your health. <b>TO</b><br>\n Too much sugar  _____ bad for your health."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "is believed to be"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": "U6 p68-69 ProgressTest2 4.5",
+    "stem": {
+      "format": "html",
+      "text": "George hadn't finished doing his homework when I went to pick him up. <b>STILL</b><br>\n George  _____ when I went to pick him up."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "was still doing his homework"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "still hadn't finished his homework"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "still had not finished his homework"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": "U6 p68-69 ProgressTest2 4.6",
+    "stem": {
+      "format": "html",
+      "text": "My brother often arrives unexpectedly. <b>TURNING</b><br>\n My brother is  _____ unexpectedly."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "always turning up"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  }
+]

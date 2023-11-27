@@ -1,0 +1,272 @@
+[
+  {
+    "id": null,
+    "tags": null,
+    "type": "Description",
+    "title": "U1 p7 Adverbs GR 1.0",
+    "stem": {
+      "format": "moodle",
+      "text": "Add the adverb in brackets to the correct place in each sentence."
+    },
+    "hasEmbeddedAnswers": false
+  },
+  {
+    "type": "Short",
+    "title": "U1 p7 Adverbs GR 1.1",
+    "stem": {
+      "format": "html",
+      "text": "Does she come by car? (<i>generally</i>) "
+    },
+    "hasEmbeddedAnswers": false,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "Does she generally come by car?"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": "U1 p7 Adverbs GR 1.2",
+    "stem": {
+      "format": "html",
+      "text": "Take care when using this machinery. (<i>always</i>) "
+    },
+    "hasEmbeddedAnswers": false,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "Always take care when using this machinery."
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "Always take care when using this machinery"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": "U1 p7 Adverbs GR 1.3",
+    "stem": {
+      "format": "html",
+      "text": "They're a little nervous at the beginning. (<i>sometimes</i>) "
+    },
+    "hasEmbeddedAnswers": false,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "They're sometimes a little nervous at the beginning."
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "They are sometimes a little nervous at the beginning."
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "They're sometimes a little nervous at the beginning"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "They are sometimes a little nervous at the beginning"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "They’re sometimes a little nervous at the beginning"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "They’re sometimes a little nervous at the beginning."
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": "U1 p7 Adverbs GR 1.4",
+    "stem": {
+      "format": "html",
+      "text": "I don't go to the gym on Fridays. (<i>usually</i>) "
+    },
+    "hasEmbeddedAnswers": false,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "I don't usually go to the gym on Fridays."
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "I do not usually go to the gym on Fridays."
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "I don't usually go to the gym on Fridays"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "I do not usually go to the gym on Fridays"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "I don’t usually go to the gym on Fridays"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "I don’t usually go to the gym on Fridays."
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": "U1 p7 Adverbs GR 1.5",
+    "stem": {
+      "format": "html",
+      "text": "They've been told that. (<i>often</i>) "
+    },
+    "hasEmbeddedAnswers": false,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "They've often been told that."
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "They have often been told that."
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "They've often been told that"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "They have often been told that"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "They’ve often been told that"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "They’ve often been told that."
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  }
+]

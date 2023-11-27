@@ -1,0 +1,207 @@
+[
+  {
+    "id": null,
+    "tags": null,
+    "type": "Description",
+    "title": null,
+    "stem": {
+      "format": "moodle",
+      "text": "$CATEGORY) $course$/top/Gold B2, Unit 7"
+    },
+    "hasEmbeddedAnswers": false
+  },
+  {
+    "id": null,
+    "tags": null,
+    "type": "Description",
+    "title": "U7 p77 [Key word transformation] 6.0",
+    "stem": {
+      "format": "html",
+      "text": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between two and five words, including the word given.<br>\n<b>Exam Tip</b>) <i>Remember contractions, e.g. ‘isn't’, count as two words.</i>"
+    },
+    "hasEmbeddedAnswers": false
+  },
+  {
+    "type": "Short",
+    "title": "U7 p77 [Key word transformation] 6.1",
+    "stem": {
+      "format": "html",
+      "text": "It was too foggy for us to ski.<br>\n<b>SO</b><br>\nIt was  _____ not ski."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "so foggy we could"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "so foggy that we could"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": "U7 p77 [Key word transformation] 6.2",
+    "stem": {
+      "format": "html",
+      "text": "He couldn't afford a taxi, so he went by bus.<br>\n<b>ENOUGH</b><br>\nHe  _____ for a taxi, so he went by bus."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "didn't have enough money"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "hadn't got enough money"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "did not have enough money"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "had not got enough money"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": "U7 p77 [Key word transformation] 6.3",
+    "stem": {
+      "format": "html",
+      "text": "There was so much traffic that we missed the show.<br>\n<b>SUCH</b><br>\nThere was  _____ that we missed the show."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "such a lot of traffic"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": "U7 p77 [Key word transformation] 6.4",
+    "stem": {
+      "format": "html",
+      "text": "I had a wonderful time and I really enjoyed seeing everyone again.<br>\n<b>GREAT</b><br>\nI had a wonderful time and  _____ everyone again."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "it was great to see"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": "U7 p77 [Key word transformation] 6.5",
+    "stem": {
+      "format": "html",
+      "text": "He said I didn't need to make an appointment.<br>\n<b>NEED</b><br>\nHe said  _____ for me to make an appointment."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "there was no need"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "Short",
+    "title": "U7 p77 [Key word transformation] 6.6",
+    "stem": {
+      "format": "html",
+      "text": "I think that taking your coat is unnecessary.<br>\n<b>POINT</b><br>\nI think that  _____ taking your coat."
+    },
+    "hasEmbeddedAnswers": true,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "there is no point in"
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "html",
+          "text": "there's no point in"
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  }
+]

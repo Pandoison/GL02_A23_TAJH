@@ -1,0 +1,302 @@
+[
+  {
+    "type": "MC",
+    "title": "U3 p30 4.1",
+    "stem": {
+      "format": "moodle",
+      "text": "What is the writer's attitude towards football fans attending matches?"
+    },
+    "hasEmbeddedAnswers": false,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "She's impressed by their behaviour."
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "She's surprised by how much money they spend."
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "She's embarrassed by how irresponsible they are."
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "She's sympathetic to their feelings."
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": "U3 p30 4.2",
+    "stem": {
+      "format": "moodle",
+      "text": "The writer mentions people who live ‘in a dream state’ in order to"
+    },
+    "hasEmbeddedAnswers": false,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "give an example of people who have uncontrollable emotions."
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "criticise people who have unrealistic expectations."
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "contrast different types of emotional attachments."
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "explain why passions can be more important than real relationships."
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": "U3 p30 4.3",
+    "stem": {
+      "format": "moodle",
+      "text": "The writer thinks having a passion is a good thing because"
+    },
+    "hasEmbeddedAnswers": false,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "it helps people learn how to express their emotions."
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "it encourages more considerate behaviour."
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "it gives people an opportunity to act like a different person."
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "it makes everything else in life seem unimportant."
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": "U3 p30 4.4",
+    "stem": {
+      "format": "moodle",
+      "text": "What does the writer mean by ‘thin on the ground’ in line 30?"
+    },
+    "hasEmbeddedAnswers": false,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "Something which is easily forgotten."
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "Something which occurs infrequently."
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "Something which takes place only once."
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "Something which is unexpected."
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": "U3 p30 4.5",
+    "stem": {
+      "format": "moodle",
+      "text": "The writer mentions Wimbledon to show that"
+    },
+    "hasEmbeddedAnswers": false,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "some sports are less likely to inspire strong feelings."
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "some passions last for many years."
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "sports fans can behave uncharacteristically."
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "people often behave strangely to get on TV."
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  },
+  {
+    "type": "MC",
+    "title": "U3 p30 4.6",
+    "stem": {
+      "format": "moodle",
+      "text": "What was the writer's purpose in writing this text?"
+    },
+    "hasEmbeddedAnswers": false,
+    "globalFeedback": null,
+    "choices": [
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "To encourage people to talk about their passions openly."
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "To convince the reader that sports fans are normal human beings."
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": false,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "To explain why the excitement of winning is worth the disappointment of losing."
+        },
+        "feedback": null
+      },
+      {
+        "isCorrect": true,
+        "weight": null,
+        "text": {
+          "format": "moodle",
+          "text": "To argue that a passion for sport provides an opportunity to experience highs and lows."
+        },
+        "feedback": null
+      }
+    ],
+    "id": null,
+    "tags": null
+  }
+]
