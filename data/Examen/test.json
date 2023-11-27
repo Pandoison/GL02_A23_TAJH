@@ -1,1 +1,28 @@
-g
+{
+  "examen": {
+    "duree": 120, // en minutes
+    "questions": [
+      {
+        "id": 1,
+        "consigne": "Résolvez l'équation x^2 - 4 = 0.",
+        "type": "blabla",
+        "indication":"blabla",
+        "reponses": [
+          {
+          "texte" : "blba",
+          "isCorrect" : true,
+          }
+        ]
+      },
+      
+    ], 
+    "eleves": [
+      {
+      "nom": "RAOULT",
+      "mdp": "azerty",
+      "tel": "0657483943",
+      "adresse": "juliette.raoult@utt.fr"
+      },
+    ]
+  }
+}
