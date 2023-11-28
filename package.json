@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "gift-parser-ide": "^0.2.4",
-    "gift-pegjs": "^0.2.1"
+    "gift-pegjs": "^0.2.1",
+    "prompt-sync": "^4.2.0"
   }
 }
