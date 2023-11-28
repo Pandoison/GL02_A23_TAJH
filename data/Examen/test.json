@@ -1,6 +1,6 @@
 {
   "examen": {
-    "duree": 120, // en minutes
+    "duree": 120, 
     "questions": [
       {
         "id": 1,
@@ -10,10 +10,10 @@
         "reponses": [
           {
           "texte" : "blba",
-          "isCorrect" : true,
+          "isCorrect" : true
           }
         ]
-      },
+      }
       
     ], 
     "eleves": [
@@ -22,7 +22,7 @@
       "mdp": "azerty",
       "tel": "0657483943",
       "adresse": "juliette.raoult@utt.fr"
-      },
+      }
     ]
   }
 }
