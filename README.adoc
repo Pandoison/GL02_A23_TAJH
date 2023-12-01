@@ -1,4 +1,12 @@
 # GL02_A23_TAJH
 
 ## Spec1 ##
+Ajout du prenom.
+
+
+## Spec6 ##
+-Modification de la gestion de l'erreur : 1a. Si l'utilisateur ne sélectionne pas correctement des élèves, afficher un message d'erreur indiquant que les sélections ne sont pas valides, et annuler l'attribution.
+Dorénavant, si l'utilisateur ne sélectionne pas correctement des élèves, on lui affiche un message d'erreur et on lui demande de recommencer.
+-Traitement non accomplie : 5.Notification des élèves de l’attribution de l’examen par email
+Avec quel compte devons nous envoyer le mail ?
 
