@@ -1,0 +1,28 @@
+{
+  "etudiants": [
+    {
+      "nom": "RAOULT",
+      "prenom": "Juliette",
+      "adresse": "juliette.raoult@utt.fr",
+      "examens": [
+        {
+          "examNom": "test.json",
+          "examPath": "../data/Examen/test.json",
+          "examNote": ""
+        }
+      ]
+    },
+    {
+      "nom": "MAZEAU",
+      "prenom": "Antoine",
+      "adresse": "antoine.mazeau@utt.fr",
+      "examens": [
+        {
+          "examNom": "test.json",
+          "examPath": "../data/Examen/test.json",
+          "examNote": ""
+        }
+      ]
+    }
+  ]
+}

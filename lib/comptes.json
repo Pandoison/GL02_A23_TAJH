@@ -3,6 +3,7 @@
     {
       "type": "étudiant",
       "nom": "RAOULT",
+      "prenom": "Juliette",
       "mdp": "azerty",
       "tel": "0657483943",
       "adresse": "juliette.raoult@utt.fr"
@@ -17,16 +18,18 @@
     {
       "type": "étudiant",
       "nom": "MAZEAU",
+      "prenom": "Antoine",
       "mdp": "azerty",
       "tel": "07867564",
       "adresse": "antoine.mazeau@utt.fr"
     },
     {
       "type": "gestionnaire",
-      "nom": "Roger",
+      "nom": "PETIT",
+      "prenom": "Roger",
       "mdp": "LesCarottesSontCuites!",
-      "tel": "0654788212",
-      "adresse": "Rogerpetit@gmail.com"
+      "tel": "0635129874",
+      "adresse": "RogerPetit@gmail.com"
     }
   ]
 }
