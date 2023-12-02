@@ -9,6 +9,16 @@
           "examNom": "test.json",
           "examPath": "../data/Examen/test.json",
           "examNote": ""
+        },
+        {
+          "examNom": "U1_Adverbs_examen.json",
+          "examPath": "../data/Examen/U1_Adverbs_examen.json",
+          "examNote": ""
+        },
+        {
+          "examNom": "U9_Essay_examen.json",
+          "examPath": "../data/Examen/U9_Essay_examen.json",
+          "examNote": ""
         }
       ]
     },
