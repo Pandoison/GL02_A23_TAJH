@@ -3,5 +3,11 @@
     "gift-pegjs": "^0.2.1",
     "lib": "^5.1.0",
     "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  },
+  "scripts": {
+    "test": "jasmine"
   }
 }
