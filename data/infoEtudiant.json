@@ -6,19 +6,19 @@
       "adresse": "juliette.raoult@utt.fr",
       "examens": [
         {
-          "examNom": "test.json",
-          "examPath": "../data/Examen/test.json",
-          "examNote": ""
-        },
-        {
           "examNom": "U1_Adverbs_examen.json",
           "examPath": "../data/Examen/U1_Adverbs_examen.json",
-          "examNote": "2/18"
+          "examNote": "1/18"
         },
         {
           "examNom": "U9_Essay_examen.json",
           "examPath": "../data/Examen/U9_Essay_examen.json",
           "examNote": "2/2"
+        },
+        {
+          "examNom": "U1_Matching_examen.json",
+          "examPath": "../data/Examen/U1_Matching_examen.json",
+          "examNote": "1/2"
         }
       ]
     },
