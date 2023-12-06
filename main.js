@@ -6,7 +6,7 @@ const {recupererInfoEtu, afficherInfoEtudiant} = require("./lib/gestionTableauBo
 const {ajouterQuestion, editerQuestion, supprimerQuestion} = require("./lib/gestionQuestions");
 const creerExam = require("./lib/creerExamen").creerExam;
 const assignerExam = require("./lib/attribuerExamen");
-const realiserExam = require("./lib/realiserExamen");1
+const realiserExam = require("./lib/realiserExamen");
 
 
 let ended = false;
@@ -76,7 +76,6 @@ function affichageEnseignant(){
     switch (indexOption1) {
         case "1" :
             console.log("#-------------------------------------#");
-            //pb, besoin d'un export convenable
             creerExam(loggedUser);
             break;
         case "2" :
@@ -198,8 +197,6 @@ function affichageChoix(){
     else{
         affichageAccueil();
     }
-
-
 }
 
 function exit(){
