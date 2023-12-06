@@ -3,8 +3,8 @@ const {chooseTypeAccount} = require("./lib/creerCompte");
 const {login, logout} = require("./lib/loginLogout");
 const {VCardExist, creationVCard} = require("./lib/genererVCard");
 const {recupererInfoEtu, afficherInfoEtudiant} = require("./lib/gestionTableauBord");
-const {ajouterQuestion, editerQuestion, supprimerQuestion} = require("./lib/gestionQuestions");
-const creerExam = require("./lib/creerExamen").creerExam;
+//const {ajouterQuestion, editerQuestion, supprimerQuestion} = require("./lib/gestionQuestions");
+//const creerExam = require("./lib/creerExamen");
 const assignerExam = require("./lib/attribuerExamen");
 const realiserExam = require("./lib/realiserExamen");
 
@@ -80,7 +80,7 @@ function affichageEnseignant(){
             break;
         case "2" :
             console.log("#-------------------------------------#");
-            assignerExam();
+            assignerExam()
             break;
         case "3" :
             let ended1 = false;
