@@ -19,6 +19,11 @@
           "examNom": "U1_Matching_examen.json",
           "examPath": "../data/Examen/U1_Matching_examen.json",
           "examNote": "1/2"
+        },
+        {
+          "examNom": "U5_PITIE_QUE_CA_MARCHE_examen.json",
+          "examPath": "C:\\Users\\Hugo\\Desktop\\UTT\\Cours\\GL02\\Projet\\GL02_A23_TAJH\\lib/../data/Examen/U5_PITIE_QUE_CA_MARCHE_examen.json",
+          "examNote": ""
         }
       ]
     },
