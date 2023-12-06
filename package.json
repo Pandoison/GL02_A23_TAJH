@@ -2,7 +2,8 @@
   "dependencies": {
     "gift-pegjs": "^0.2.1",
     "lib": "^5.1.0",
-    "prompt-sync": "^4.2.0"
+    "prompt-sync": "^4.2.0",
+    "vcards-js": "^2.10.0"
   },
   "devDependencies": {
     "jasmine": "^5.1.0"
