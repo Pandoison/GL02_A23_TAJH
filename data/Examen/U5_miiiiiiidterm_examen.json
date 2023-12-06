@@ -1,0 +1,24 @@
+{
+  "nom": "miiiiiiidterm",
+  "matiere": "U5",
+  "duree": "30 minutes",
+  "questions": [
+    {
+      "id": "U5 p57 Rev4.6 Passive forms",
+      "consigne": "Only fifty people  _____  (invite)  to their wedding, which is on Saturday",
+      "type": "Short",
+      "indication": "Choose the best answer to complete the sentences",
+      "reponses": [
+        {
+          "text": "be invited",
+          "isCorrect": true
+        },
+        {
+          "text": "were invited",
+          "isCorrect": true
+        }
+      ]
+    }
+  ],
+  "vcard_professeur": ""
+}

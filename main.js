@@ -3,8 +3,8 @@ const {chooseTypeAccount} = require("./lib/creerCompte");
 const {login, logout} = require("./lib/loginLogout");
 const {VCardExist, creationVCard} = require("./lib/genererVCard");
 const {recupererInfoEtu, afficherInfoEtudiant} = require("./lib/gestionTableauBord");
-//const {ajouterQuestion, editerQuestion, supprimerQuestion} = require("./lib/gestionQuestions");
-//const creerExam = require("./lib/creerExamen");
+const {ajouterQuestion, editerQuestion, supprimerQuestion} = require("./lib/gestionQuestions");
+const creerExam = require("./lib/creerExamen");
 const assignerExam = require("./lib/attribuerExamen");
 const realiserExam = require("./lib/realiserExamen");
 
@@ -137,7 +137,7 @@ function affichageGestionnaire(){
         case "1" :
             console.log("#-------------------------------------#");
             //pb, besoin d'un export convenable
-            creerExam();
+            creerExam(loggedUser);
             break;
         case "2" :
             let ended1 = false;

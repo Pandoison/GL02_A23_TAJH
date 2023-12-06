@@ -47,6 +47,22 @@
       "mdp": "Aaaaaaaa*",
       "tel": "0695502211",
       "adresse": "timo.brisset@utt.fr"
+    },
+    {
+      "type": "enseignant",
+      "nom": "Pitt",
+      "prenom": "Brad",
+      "mdp": "BradPitt*",
+      "tel": "0606060606",
+      "adresse": "brad.pitt@utt.fr"
+    },
+    {
+      "type": "enseignant",
+      "nom": "Lionel",
+      "prenom": "Messi",
+      "mdp": "LionelMessi*",
+      "tel": "0605040302",
+      "adresse": "lionel.messi@gmail.com"
     }
   ]
 }
