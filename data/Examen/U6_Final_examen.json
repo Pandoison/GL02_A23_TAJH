@@ -1,0 +1,264 @@
+{
+  "nom": "Final",
+  "matiere": "U6",
+  "duree": "120 minutes",
+  "questions": [
+    {
+      "id": "U6 p68-69 ProgressTest2 4.6",
+      "consigne": "My brother often arrives unexpectedly.  TURNING  \n My brother is  _____ unexpectedly.",
+      "type": "Short",
+      "indication": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between two and five words, including the word given. \n Example)  \n  I don't think John has got his father's musical talent.    AFTER   \n  John doesn't appear   to take after   his father as far as musical talent is concerned. ",
+      "reponses": [
+        {
+          "text": "always turning up",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "U6 p68-69 ProgressTest2 4.5",
+      "consigne": "George hadn't finished doing his homework when I went to pick him up.  STILL  \n George  _____ when I went to pick him up.",
+      "type": "Short",
+      "indication": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between two and five words, including the word given. \n Example)  \n  I don't think John has got his father's musical talent.    AFTER   \n  John doesn't appear   to take after   his father as far as musical talent is concerned. ",
+      "reponses": [
+        {
+          "text": "was still doing his homework",
+          "isCorrect": true
+        },
+        {
+          "text": "still hadn't finished his homework",
+          "isCorrect": true
+        },
+        {
+          "text": "still had not finished his homework",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "U6 p68-69 ProgressTest2 4.4",
+      "consigne": "Many people believe that too much sugar is bad for your health.  TO  \n Too much sugar  _____ bad for your health.",
+      "type": "Short",
+      "indication": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between two and five words, including the word given. \n Example)  \n  I don't think John has got his father's musical talent.    AFTER   \n  John doesn't appear   to take after   his father as far as musical talent is concerned. ",
+      "reponses": [
+        {
+          "text": "is believed to be",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "U6 p60 Listening 3.2",
+      "consigne": "You hear a man and a woman talking about a visit to the theatre. How does the woman feel about the arrangements?",
+      "type": "MC",
+      "indication": "You will hear people talking in eight different situations. First, identify the key words in the question below. Then listen and choose the best answer. https)//serge.bibauw.be/teaching/english5/gold_b2_cb_18_u6_p60_listening.mp3",
+      "reponses": [
+        {
+          "text": "annoyed that the play finishes so late",
+          "isCorrect": false
+        },
+        {
+          "text": "worried about when they’re going to eat",
+          "isCorrect": true
+        },
+        {
+          "text": "confused about what time the play starts",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "U6 p60 Listening 3.8",
+      "consigne": "You hear a man and a woman talking. Who is the man?",
+      "type": "MC",
+      "indication": "You will hear people talking in eight different situations. First, identify the key words in the question below. Then listen and choose the best answer. https)//serge.bibauw.be/teaching/english5/gold_b2_cb_18_u6_p60_listening.mp3",
+      "reponses": [
+        {
+          "text": "her brother",
+          "isCorrect": false
+        },
+        {
+          "text": "her teacher",
+          "isCorrect": false
+        },
+        {
+          "text": "her friend",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "U6 p67 Rev4.3",
+      "consigne": "I _____ my drama course by the end of next year.",
+      "type": "MC",
+      "indication": "Complete the sentences using the correct form of the word in brackets.",
+      "reponses": [
+        {
+          "text": "will be completing",
+          "isCorrect": false
+        },
+        {
+          "text": "will have completed",
+          "isCorrect": true
+        },
+        {
+          "text": "am completing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "U6 p67 Rev4.8",
+      "consigne": "Let's hurry! They _____ the theatre doors at 7.30 and then you have to wait until the interval to go in.",
+      "type": "MC",
+      "indication": "Complete the sentences using the correct form of the word in brackets.",
+      "reponses": [
+        {
+          "text": "close",
+          "isCorrect": true
+        },
+        {
+          "text": "are going to close",
+          "isCorrect": false
+        },
+        {
+          "text": "are closing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "U6 p67 Rev1.5",
+      "consigne": "I sometimes like to escape from  _____ ( real ) by going to a musical.",
+      "type": "Short",
+      "indication": "Complete the sentences using the correct form of the word in brackets.",
+      "reponses": [
+        {
+          "text": "reality",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "U6 p60 Listening 3.4",
+      "consigne": "You hear a woman giving some information on the radio about a comedy festival. Why is it going to be different this year?",
+      "type": "MC",
+      "indication": "You will hear people talking in eight different situations. First, identify the key words in the question below. Then listen and choose the best answer. https)//serge.bibauw.be/teaching/english5/gold_b2_cb_18_u6_p60_listening.mp3",
+      "reponses": [
+        {
+          "text": "The tickets will be more expensive.",
+          "isCorrect": false
+        },
+        {
+          "text": "It will be held in a smaller venue.",
+          "isCorrect": false
+        },
+        {
+          "text": "It will be on different dates.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "EM U6 p46-47 4.1",
+      "consigne": "I couldn't wait to see my friend again after her long trip abroad. ( LOOKING ) \nI  _____ my friend again after her long trip abroad.",
+      "type": "Short",
+      "indication": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given.You must use between two and five words, including the word given. \n \nA very kind friend took us home after the party. ( TAKEN ) \nAften the party, we   were taken home by   a very kind friend.\n ",
+      "reponses": [
+        {
+          "text": "was looking forward to seeing",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "U6 p67 Rev3.4",
+      "consigne": "We might  _____ ( use ) the same costumes in our next production.",
+      "type": "Short",
+      "indication": "Complete the sentences using the correct form of the word in brackets.",
+      "reponses": [
+        {
+          "text": "use|be using",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "U6 p68-69 ProgressTest2 4.3",
+      "consigne": "Nearly all the shops in this town are expensive.  HARDLY  \n There  _____ shops in this town.",
+      "type": "Short",
+      "indication": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between two and five words, including the word given. \n Example)  \n  I don't think John has got his father's musical talent.    AFTER   \n  John doesn't appear   to take after   his father as far as musical talent is concerned. ",
+      "reponses": [
+        {
+          "text": "are hardly any cheap",
+          "isCorrect": true
+        },
+        {
+          "text": "inexpensive",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "U6 p67 Rev2.1",
+      "consigne": "The only way I can get _____ to my cousin is by talking about dance.",
+      "type": "MC",
+      "indication": "Complete the sentences using the correct form of the word in brackets.",
+      "reponses": [
+        {
+          "text": "away",
+          "isCorrect": false
+        },
+        {
+          "text": "down",
+          "isCorrect": false
+        },
+        {
+          "text": "into",
+          "isCorrect": false
+        },
+        {
+          "text": "over",
+          "isCorrect": false
+        },
+        {
+          "text": "round",
+          "isCorrect": false
+        },
+        {
+          "text": "through",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "U6 p67 Rev1.2",
+      "consigne": "An  _____ ( excess ) amount of practice can lead to more injuries for dancers.",
+      "type": "Short",
+      "indication": "Complete the sentences using the correct form of the word in brackets.",
+      "reponses": [
+        {
+          "text": "excessive",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "EM U6 p46-47 4.6",
+      "consigne": "The idea of flying is very frightening for some people. ( ARE ) \nSome people  _____ the idea of flying.",
+      "type": "Short",
+      "indication": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given.You must use between two and five words, including the word given. \n \nA very kind friend took us home after the party. ( TAKEN ) \nAften the party, we   were taken home by   a very kind friend.\n ",
+      "reponses": [
+        {
+          "text": "are very frightened by",
+          "isCorrect": true
+        },
+        {
+          "text": "are very frightened of",
+          "isCorrect": true
+        }
+      ]
+    }
+  ],
+  "vcard_professeur": ""
+}
