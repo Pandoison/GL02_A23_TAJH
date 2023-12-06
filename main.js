@@ -3,8 +3,8 @@ const {chooseTypeAccount} = require("./lib/creerCompte");
 const {login, logout} = require("./lib/loginLogout");
 const {VCardExist, creationVCard} = require("./lib/genererVCard");
 const {recupererInfoEtu, afficherInfoEtudiant} = require("./lib/gestionTableauBord");
-//const {ajouterQuestion, editerQuestion, supprimerQuestion} = require("./lib/gestionQuestions");
-//const creerExam = require("./lib/creerExamen");
+const {ajouterQuestion, editerQuestion, supprimerQuestion} = require("./lib/gestionQuestions");
+const creerExam = require("./lib/creerExamen").creerExam;
 const assignerExam = require("./lib/attribuerExamen");
 const realiserExam = require("./lib/realiserExamen");
 
