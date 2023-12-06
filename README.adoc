@@ -1,8 +1,33 @@
 
 # GL02_A23_TAJH
 
-##Pour lancer l’application il faut tout d’abord effectuer la commande npm install dans le répertoire GL02_A23_TAJH.
-Vous devez importer vos fichiers GIFT dans le répertoire data/gift.
-Ensuite il suffit de faire node main.js pour lancer l’application.##
 
-##Contributors : BRISSET Timo - MAZEAU Antoine - CZERNIAK Hugo - RAOULT Juliette##
+Application de gestion et de préparation de tests et examens en ligne, se basant sur des fichiers au format link:https://docs.moodle.org/2x/fr/Format_GIFT[GIFT].
+
+## Pré-requis
+
+Vous devez au préalable installer **Node.js version 14.21.3**, ou plus.
+
+## Installation
+
+Avant de lancer l'application, vous devez installer les dépendances en effectuant la commande suivante  dans le répertoire GL02_A23_TAJH.
+
+----
+npm install
+----
+
+## Lancement
+
+Importer les fichiers GIFT que vous voulez utiliser dans le dossier data/gift.
+
+Pour lancer l'application, rester dans le même dossier et lancer la commande suivante :
+----
+node main.js
+----
+
+## Contributeurs
+
+- BRISSET timo
+- MAZEAU Antoine
+- CZERNIAK Hugo
+- RAOULT Juliette
