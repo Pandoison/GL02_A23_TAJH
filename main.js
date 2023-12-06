@@ -4,9 +4,11 @@ const {login, logout} = require("./lib/loginLogout");
 const {VCardExist, creationVCard} = require("./lib/genererVCard");
 const {recupererInfoEtu, afficherInfoEtudiant} = require("./lib/gestionTableauBord");
 const {ajouterQuestion, editerQuestion, supprimerQuestion} = require("./lib/gestionQuestions");
-const creerExam = require("./lib/creerExamen");
+
+const creerExam = require("./lib/creerExamen").creerExam;
 const assignerExam = require("./lib/attribuerExamen");
 const realiserExam = require("./lib/realiserExamen");
+
 
 let ended = false;
 let loggedUser = null;
@@ -75,7 +77,6 @@ function affichageEnseignant(){
     switch (indexOption1) {
         case "1" :
             console.log("#-------------------------------------#");
-            //pb, besoin d'un export convenable
             creerExam(loggedUser);
             break;
         case "2" :
@@ -197,8 +198,6 @@ function affichageChoix(){
     else{
         affichageAccueil();
     }
-
-
 }
 
 function exit(){

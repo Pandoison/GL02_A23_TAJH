@@ -41,6 +41,7 @@
       "adresse": "hugo.czerniak@utt.fr"
     },
     {
+<<<<<<< HEAD
       "type": "étudiant",
       "nom": "Brisset",
       "prenom": "Timo",
@@ -63,6 +64,15 @@
       "mdp": "LionelMessi*",
       "tel": "0605040302",
       "adresse": "lionel.messi@gmail.com"
+    },
+    {
+      "type": "enseignant",
+      "nom": "PROF",
+      "prenom": "prof",
+      "mdp": "Profprof1",
+      "tel": "0123456789",
+      "adresse": "prof@"
     }
+    
   ]
 }
