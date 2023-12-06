@@ -1,17 +1,8 @@
+
 # GL02_A23_TAJH
 
-## Spec1 ##
-Ajout du prenom.
+##Pour lancer l’application il faut tout d’abord effectuer la commande npm install dans le répertoire GL02_A23_TAJH.
+Vous devez importer vos fichiers GIFT dans le répertoire data/gift.
+Ensuite il suffit de faire node main.js pour lancer l’application.##
 
-## Spec 5 ##
-- Ajout d'une gestion d'erreur : si la matoère rentrée n'existe pas, un message d'erreur est retourné.
-- Il n'y avait pas de précision sur le type du fichier "Examen" créé, nous avons décidé de lui attribuer le type json
-
-
-
-## Spec6 ##
-- Modification de la gestion de l'erreur : 1a. "Si l'utilisateur ne sélectionne pas correctement des élèves, afficher un message d'erreur indiquant que les sélections ne sont pas valides, et annuler l'attribution."
-  - Correction : Dorénavant, si l'utilisateur ne sélectionne pas correctement des élèves, on lui affiche un message d'erreur et on lui demande de recommencer.
-- Traitement non accomplie : 5.Notification des élèves de l’attribution de l’examen par email
-  - Raison : Pas de compte mail pour envoyer le mail
-
+##Contributors : BRISSET Timo - MAZEAU Antoine - CZERNIAK Hugo - RAOULT Juliette##
