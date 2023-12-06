@@ -1,0 +1,21 @@
+{
+  "nom": "Essay",
+  "matiere": "U9",
+  "duree": "100 minutes",
+  "questions": [
+    {
+      "id": "U9 p95 4.5 Third conditional",
+      "consigne": " A)  I went to get a coffee and lost all the work I was doing. ( save the document )  \n B)  You ____.",
+      "type": "Essay",
+      "indication": " Complete the sentences below to express criticism. Use the third conditional and the cues in brackets. Write the  full B response  (full sentence) in the field below each question.    Example)    A)  I was only just able to brake in time when a deer ran out in front of me. ( drive more slowly )    B)  If you’d been   driving more slowly, you wouldn’t have had to brake   so suddenly.",
+      "reponses": []
+    },
+    {
+      "id": "U9 p95 4.6 Third conditional",
+      "consigne": " A)  I was doing something else so I didn't hear what she said. ( pay attention )  \n B)  If ____ what she said.",
+      "type": "Essay",
+      "indication": " Complete the sentences below to express criticism. Use the third conditional and the cues in brackets. Write the  full B response  (full sentence) in the field below each question.    Example)    A)  I was only just able to brake in time when a deer ran out in front of me. ( drive more slowly )    B)  If you’d been   driving more slowly, you wouldn’t have had to brake   so suddenly.",
+      "reponses": []
+    }
+  ]
+}
