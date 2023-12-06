@@ -15,15 +15,15 @@ describe("Test du parser", function(){
 
     })
 
-    it("Peut ajouter et supprimer une question", function(){
-        let fileContent ;
-
+    it("Peut ajouter une question", function(){
         parser.addQuestionToGift(this.fileNameOfQ, this.q)
-        fileContent = fs.readFileSync(path.join(__dirname, `../data/gift/${this.fileNameOfQ}.gift`), {encoding: 'utf8', flag: 'r'})
+        const fileContent = fs.readFileSync(path.join(__dirname, `../data/gift/${this.fileNameOfQ}.gift`), {encoding: 'utf8', flag: 'r'})
         expect(fileContent).toContain(this.q.id)
+    });
 
+    it("Peut ajouter et supprimer une question", function(){
         parser.deleteQuestionFromGift(this.q.id)
-        fileContent = fs.readFileSync(path.join(__dirname, `../data/gift/${this.fileNameOfQ}.gift`), {encoding: 'utf8', flag: 'r'})
+        const fileContent = fs.readFileSync(path.join(__dirname, `../data/gift/${this.fileNameOfQ}.gift`), {encoding: 'utf8', flag: 'r'})
         expect(fileContent).not.toContain(this.q.id)
     });
 
