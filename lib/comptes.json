@@ -11,6 +11,7 @@
     {
       "type": "enseignant",
       "nom": "DI LORETO",
+      "prenom": "Ines",
       "mdp": "azerty",
       "tel": "0785743793",
       "adresse": "ines.diloreto@utt.fr"
