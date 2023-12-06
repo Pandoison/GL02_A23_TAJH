@@ -38,6 +38,14 @@
       "mdp": "HmmmCharal1",
       "tel": "0123456789",
       "adresse": "hugo.czerniak@utt.fr"
+    },
+    {
+      "type": "étudiant",
+      "nom": "Brisset",
+      "prenom": "Timo",
+      "mdp": "Aaaaaaaa*",
+      "tel": "0695502211",
+      "adresse": "timo.brisset@utt.fr"
     }
   ]
 }
