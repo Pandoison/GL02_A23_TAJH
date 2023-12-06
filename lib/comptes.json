@@ -30,6 +30,14 @@
       "mdp": "LesCarottesSontCuites!",
       "tel": "0635129874",
       "adresse": "RogerPetit@gmail.com"
+    },
+    {
+      "type": "étudiant",
+      "nom": "CZERNIAK",
+      "prenom": "Hugo",
+      "mdp": "HmmmCharal1",
+      "tel": "0123456789",
+      "adresse": "hugo.czerniak@utt.fr"
     }
   ]
 }

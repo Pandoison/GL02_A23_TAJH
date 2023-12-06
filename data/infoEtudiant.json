@@ -33,6 +33,12 @@
           "examNote": ""
         }
       ]
+    },
+    {
+      "nom": "CZERNIAK",
+      "prenom": "Hugo",
+      "adresse": "hugo.czerniak@utt.fr",
+      "examens": []
     }
   ]
 }
