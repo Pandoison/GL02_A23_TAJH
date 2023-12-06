@@ -39,6 +39,14 @@
       "mdp": "HmmmCharal1",
       "tel": "0123456789",
       "adresse": "hugo.czerniak@utt.fr"
+    },
+    {
+      "type": "enseignant",
+      "nom": "PROF",
+      "prenom": "prof",
+      "mdp": "Profprof1",
+      "tel": "0123456789",
+      "adresse": "prof@"
     }
   ]
 }
