@@ -39,6 +39,40 @@
       "mdp": "HmmmCharal1",
       "tel": "0123456789",
       "adresse": "hugo.czerniak@utt.fr"
+    },
+    {
+
+      "type": "étudiant",
+      "nom": "Brisset",
+      "prenom": "Timo",
+      "mdp": "Aaaaaaaa*",
+      "tel": "0695502211",
+      "adresse": "timo.brisset@utt.fr"
+    },
+    {
+      "type": "enseignant",
+      "nom": "Pitt",
+      "prenom": "Brad",
+      "mdp": "BradPitt*",
+      "tel": "0606060606",
+      "adresse": "brad.pitt@utt.fr"
+    },
+    {
+      "type": "enseignant",
+      "nom": "Lionel",
+      "prenom": "Messi",
+      "mdp": "LionelMessi*",
+      "tel": "0605040302",
+      "adresse": "lionel.messi@gmail.com"
+    },
+    {
+      "type": "enseignant",
+      "nom": "PROF",
+      "prenom": "prof",
+      "mdp": "Profprof1",
+      "tel": "0123456789",
+      "adresse": "prof@"
     }
+    
   ]
 }
