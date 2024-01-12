@@ -31,3 +31,8 @@ node main.js
 - MAZEAU Antoine
 - CZERNIAK Hugo
 - RAOULT Juliette
+- HENNECHART Louis
+- CHEMLAL Nassim
+- ZIYI Huang
+- CHENGXIAN Zhao
+- CHEYNET Maël
