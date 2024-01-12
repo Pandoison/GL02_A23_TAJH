@@ -51,6 +51,10 @@ function affichageEtudiant(){
             console.log("#-------------------------------------#");
             let infoEtu = recupererInfoEtu(loggedUser);
             afficherInfoEtudiant(infoEtu);
+            // Nouvelle ligne pour afficher les informations supplémentaires
+            console.log(`Numéro de téléphone : ${infoEtu.telephone}`);
+            console.log(`Type de compte : ${infoEtu.typeCompte}`);
+            console.log(`E-mail : ${infoEtu.email}`);
             break;
         case "2" :
             console.log("#-------------------------------------#");
@@ -78,7 +82,8 @@ function affichageEnseignant(){
     console.log("1 - Créer un examen");
     console.log("2 - Attribuer un examen");
     console.log("3 - Gérer la base de question");
-    console.log("4 - Se déconnecter");
+    console.log("4 - Supprimer un examen");
+    console.log("5 - Se déconnecter");
     let indexOption1 = prompt ("Veuillez choisir une option : ");
     switch (indexOption1) {
         case "1" :
@@ -120,7 +125,11 @@ function affichageEnseignant(){
                 }
             }
             break;
-        case "4" :
+        case "4":
+            console.log("#-------------------------------------#");
+            supprimerExamen(); // Appel de la fonction de suppression d'examen
+            break;   
+        case "5" :
             console.log("#-------------------------------------#");
             logout();
             loggedUser = null;
@@ -190,6 +199,39 @@ function affichageGestionnaire(){
     }
 }
 
+function supprimerExamen() {
+    const dossierExamens = path.join(__dirname, 'data', 'examens');
+
+    // Lire la liste des fichiers d'examens dans le dossier
+    const fichiersExamens = fs.readdirSync(dossierExamens);
+
+    if (fichiersExamens.length === 0) {
+        console.log("Aucun examen à supprimer.");
+        return;
+    }
+
+    // Afficher la liste des examens avec leurs noms de fichier
+    console.log("Liste des examens :");
+    fichiersExamens.forEach((fichier, index) => {
+        console.log(`${index + 1} - ${fichier}`);
+    });
+
+    // Demander à l'enseignant de choisir l'examen à supprimer
+    const indexExamenASupprimer = prompt("Veuillez saisir le numéro de l'examen à supprimer : ");
+    const fichierExamenASupprimer = fichiersExamens[indexExamenASupprimer - 1];
+
+    if (fichierExamenASupprimer) {
+        const cheminFichierExamenASupprimer = path.join(dossierExamens, fichierExamenASupprimer);
+
+        // Supprimer le fichier d'examen
+        fs.unlinkSync(cheminFichierExamenASupprimer);
+
+        console.log(`L'examen "${fichierExamenASupprimer}" a été supprimé avec succès.`);
+    } else {
+        console.log("Le numéro d'examen saisi n'est pas valide.");
+    }
+}
+
 function affichageChoix(){
     if (loggedUser != null){
         switch(loggedUser.type){
@@ -218,3 +260,4 @@ console.log("Bienvenue !");
 while(!ended){
     affichageChoix();
 }
+
