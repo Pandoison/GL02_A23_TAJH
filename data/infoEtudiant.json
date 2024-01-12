@@ -45,6 +45,12 @@
       "prenom": "Timo",
       "adresse": "timo.brisset@utt.fr",
       "examens": []
+    },
+    {
+      "nom": "pau",
+      "prenom": "brun",
+      "adresse": "pau@utt.fr",
+      "examens": []
     }
   ]
 }

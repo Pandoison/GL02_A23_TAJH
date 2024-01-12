@@ -39,6 +39,9 @@ function affichageAccueil(){
 
 function affichageEtudiant(){
     console.log("#-------------------------------------#");
+    console.log(`Etudiant : ${loggedUser.nom} ${loggedUser.prenom}`);
+    console.log(`Mail : ${loggedUser.adresse}, telephone : ${loggedUser.tel}`)
+    console.log("#-------------------------------------#");
     console.log("1 - Tableau de bord");
     console.log("2 - Participer à un examen");
     console.log("3 - Se déconnecter");
@@ -69,6 +72,9 @@ function affichageEnseignant(){
         console.log("VCard du compte inexistante, tentative de création de VCard...");
         creationVCard("enseignant", loggedUser.nom, loggedUser.prenom, loggedUser.adresse, loggedUser.tel)
     }
+    console.log(`Enseignant : ${loggedUser.nom} ${loggedUser.prenom}`);
+    console.log(`Mail : ${loggedUser.adresse}, telephone : ${loggedUser.tel}`)
+    console.log("#-------------------------------------#");
     console.log("1 - Créer un examen");
     console.log("2 - Attribuer un examen");
     console.log("3 - Gérer la base de question");
@@ -130,6 +136,9 @@ function affichageGestionnaire(){
         console.log("VCard du compte inexistante, tentative de création de VCard...");
         creationVCard("gestionnaire", loggedUser.nom, loggedUser.prenom, loggedUser.adresse, loggedUser.tel)
     }
+    console.log(`Gestionaire : ${loggedUser.nom} ${loggedUser.prenom}`);
+    console.log(`Mail : ${loggedUser.adresse}, telephone : ${loggedUser.tel}`)
+    console.log("#-------------------------------------#");
     console.log("1 - Créer un examen");
     console.log("2 - Gérer la base de question");
     console.log("3 - Se déconnecter");

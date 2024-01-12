@@ -41,7 +41,6 @@
       "adresse": "hugo.czerniak@utt.fr"
     },
     {
-
       "type": "étudiant",
       "nom": "Brisset",
       "prenom": "Timo",
@@ -72,7 +71,30 @@
       "mdp": "Profprof1",
       "tel": "0123456789",
       "adresse": "prof@"
+    },
+    {
+      "type": "gestionnaire",
+      "nom": "Mael",
+      "prenom": "mael",
+      "mdp": "Mael2003",
+      "tel": "0766426566",
+      "adresse": "mael.cheynet@gmail.com"
+    },
+    {
+      "type": "enseignant",
+      "nom": "vico",
+      "prenom": "vico",
+      "mdp": "Mael2003",
+      "tel": "0766426566",
+      "adresse": "vico@utt.Fr"
+    },
+    {
+      "type": "étudiant",
+      "nom": "pau",
+      "prenom": "brun",
+      "mdp": "Mael2003",
+      "tel": "0755662233",
+      "adresse": "pau@utt.fr"
     }
-    
   ]
 }
